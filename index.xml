@@ -2,67 +2,743 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sheng-Min Chiu on AIIS Lab</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Sheng-Min Chiu on AIIS Lab</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 23:34:03 +0800</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jun 2025 17:06:03 +0800</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>/publications/</link>
+      <link>//localhost:1313/publications/</link>
       <pubDate>Tue, 10 Jun 2025 23:34:03 +0800</pubDate>
-      <guid>/publications/</guid>
-      <description>&lt;h4 id=&#34;international-journal&#34;&gt;International Journal&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Transfer Framework for Urban Spatio-Temporal Knowledge Based on Radial Basis Function,” &lt;em&gt;IEEE Transactions on Artificial Intelligence&lt;/em&gt;, vol. 5, no. 9, pp. 4458-4469, 2024.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Cheng-Ju Kuo, Li-Chun Hung, Min-Hsiung Hung, Chao-Chun Chen, and Chiang Lee, “Development of Lightweight RBF-DRNN and Automated Framework for CNC Tool-Wear Prediction,” &lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt;, Vol. 71, Article 2506711, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q1, IF:5.6)&lt;/font&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, and Tzu-Yin Chang, “Identifying Key Grid Cells for Crowd Flow Predictions Based on CNN-based Models with the Grad-CAM Kit,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “Estate Price Prediction System Based on Temporal and Spatial Features and Lightweight Deep Learning Model,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;&#xA;&lt;li&gt;Yi-Chung Chen, Hsi-Ho Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Chiang Lee, “Joint Promotion Partner Recommendation Systems Using Data from Location-Based Social Networks,” &lt;em&gt;ISPRS International Journal of Geo-Information&lt;/em&gt;, vol. 10, no. 1, Article 57, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:2.8)&lt;/font&gt;&lt;/li&gt;&#xA;&lt;li&gt;Hua-Hong Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “Group Trip Recommendation Systems,” &lt;em&gt;Advances in Information and Communication Networks&lt;/em&gt;, vol. 886, pp. 391-412, 2019-1. (EI)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;unpublished&#34;&gt;Unpublished&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Knowledge Transfer for Spatio-temporal Flow Prediction Based on Radial Basis Function Transfer Blocks,” &lt;em&gt;IEEE Transactions on Intelligent Transportation Systems&lt;/em&gt;, under review, 2025.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhi-Gang Wen, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “CRBF-Net: Convolutional RBF Network for Key Grid Cells Selection in Spatial-Temporal Flow Prediction,” &lt;em&gt;ACM Transactions on Spatial Algorithms and Systems&lt;/em&gt;, under review, 2025.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;international-conference&#34;&gt;International Conference&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Chang-Hung Shih, Yang-Chou Juan, Liang-Jiun Wang, Yi-Chung Chen, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “Crowd Flow Prediction Model Using AutoEncoder and Deep Neural Network: Applications in Dynamic Urban Settings,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2025 (ICASI 2025)&lt;/em&gt;, 2025-04, Tokyo, Japan.&lt;/li&gt;&#xA;&lt;li&gt;Ting-Hsuan Chang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen and Chiang Lee, “Using spatial, temporal, and external factors to enhance prediction of shared-transport users,” &lt;em&gt;Multidisciplinary International Social Networks Conference (MISNC)&lt;/em&gt;, 2022-10, Matsuyama, Japan.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Yow-Shin Liou, Chiang Lee, Jia-Ching Ying, Chee-Hoe Loh and Jou-Wei Lin, “A Fast, Interactive, Location-based Food Recommendation Application,” &lt;em&gt;Multidisciplinary International Social Networks Conference (MISNC)&lt;/em&gt;, 2021-11, Bergen, Norway and Kaohsiung, Taiwan.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Jou-Wei Lin, Cheng-Hsien Tsai, and Chiang Lee &amp;ldquo;An Interactive Health Management System for Self-supervised Health Management,&amp;rdquo; Proceeding on &lt;em&gt;IEEE Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (IEEE ECBIOS)&lt;/em&gt;, 2021-5, Tainan, Taiwan. &lt;font color=&#34;#96999A&#34;&gt;(Best Paper Award)&lt;/font&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Feng-Jung Yang, Yi-Chung Chen, Chiang Lee, “Deep learning for Etiology of Chronic Kidney Disease in Taiwan,” &lt;em&gt;2nd IEEE Eurasia Conference on IOT, Communication and Engineering, 2020 (IEEE ECICE 2020)&lt;/em&gt;, 2020-10, Yunlin, Taiwan.&lt;/li&gt;&#xA;&lt;li&gt;Chee-Hoe Loh, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Yi-Chung Chen, &amp;ldquo;Application of Hammerstein-Wiener Recurrent Neural Network to Accelerate Time-Series Skyline Queries,&amp;rdquo; &lt;em&gt;International Workshop of Machine Learning on Multimedia and Applications&lt;/em&gt;, 2019-08. Bali, Indonesia. &lt;font color=&#34;#96999A&#34;&gt;(Best Paper Award)&lt;/font&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Chung-Ying Hsieh and Yi-Chung Chen, &amp;ldquo;Using the news in the social networks to predict the TAIEX stock price,&amp;rdquo; &lt;em&gt;International Joint Conference Of TCSE, JASPIC And SEA&lt;/em&gt;, 2019-07. Chiba, Japan and Taoyuan, Taiwan.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Tien-Yen Chang, Yu-Liang Hsu, Heng-Yi Su, Hsi-Min Chen, Tzu-Yu Lin,&amp;ldquo;A Fast Way for Finding Similar Friends in Social Networks by using Neuro-Fuzzy Networks,&amp;rdquo; &lt;em&gt;2016 International Conference on Machine Learning and Cybernetics (ICMLC 2016)&lt;/em&gt;, 2016-07. Jeju Island, South Korea.&lt;/li&gt;&#xA;&lt;li&gt;Yi-Chung Chen, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Heng-Yi Su, Hsi-Min Chen, Yu-Liang Hsu, and Yu-Ren Yang, &amp;ldquo;An Efficient and Precise Algorithm for Finding Similar Friends in Distributed Social Networks,&amp;rdquo; &lt;em&gt;International Conference on Information and Social Science (ISS 2016)&lt;/em&gt;, 2016-06. Sapporo, Japan.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Heng-Yi Su and Yu-Liang Hsu, &amp;ldquo;Finding Similar Users in Social Networks by Using the Depth-k Skyline Query,&amp;rdquo; 2015 IEEE International Conference on Consumer Electronics, pp. 162-163 , 2015-06. Taipei, Taiwan.&lt;/li&gt;&#xA;&lt;li&gt;Heng-Yi Su, Yi-Chung Chen, Qian-Hua Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Yu-Liang Hsu, &amp;ldquo;An Educational/Research-Aimed Tool for Voltage Stability Analysis in Smart Grids,&amp;rdquo; &lt;em&gt;2015 IEEE International Conference on Consumer Electronics&lt;/em&gt;, pp. 164-165, 2015-06. Taipei, Taiwan.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;domestic-conference&#34;&gt;Domestic Conference&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;劉佑炘, &lt;strong&gt;邱勝敏&lt;/strong&gt;, 李香蘭, 陳奕中, 李強, 尚榮康, 張子瑩, “利用CNN-LSTM及Grad-CAM擷取臺北市人流移動趨勢特徵值並建立輕量化模型預測人流量,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2021, Taiwan. &lt;font color=&#34;#96999A&#34;&gt;(Best Student Paper Award)&lt;/font&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳奕中, 陳朝鈞, 李強, 洪莉珺,“基於模糊深度學習模型萃取深度特徵進而提升刀具壽命預測的準確性,” &lt;em&gt;Chinese Institute of Industrial Engineers Annual Conference, 2020 (CIIE2020)&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 郭巧玲, 范毅軍, 李強 “利用相似度投票法於歷史地圖圖徵萃取-以日治時期台灣堡圖為例,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2020, Taiwan.&lt;/li&gt;&#xA;&lt;li&gt;李香蘭, 陳奕中, &lt;strong&gt;邱勝敏&lt;/strong&gt;, 李強, 尚榮康, 張子瑩, “雙北市人流資料與天氣的關係,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2020, Taiwan.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳昱任, 羅志豪, 陳奕中, “基於遞迴式類神經網路之快速時間序列天際線查詢方法,” &lt;em&gt;WASN 2018, 無線、隨意及感測網路研討會&lt;/em&gt;, 2018-08, 桃園渴望會館.&lt;/li&gt;&#xA;&lt;li&gt;Tze-Suen Lim, Yi-Chung Chen, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Wei-Lun Wang, and Wei-Hung Lin, “Time Series Skyline Query and Its Neural Filter,” 2017台灣軟體工程研討會 , pp. 307-312 , 2017-07.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳奕中, 楊東麟, 薛念林, 陳錫民, “基於倒傳遞模糊類神經網路之快速天際線朋友尋找演算法,” &lt;em&gt;2016 台灣軟體工程研討會(TCSE2016)&lt;/em&gt;, 2016-07. Keelung, Taiwan.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt; and Yi-Chung Chen, “A Novel Algorithm for Finding Similar Friends in Social Networks,” &lt;em&gt;National Symposium on System Science and Engineering&lt;/em&gt;, 2015-07. Taipei, Taiwan.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhong-Ying Xie, Pei-Bei Chen,Hung-Yu Wei, and Yi-Chung Chen, “Using the Concepts of Skyline Queries and Neural Networks to Accelerate the Processes of Finding Similar Users in Social Networks,” &lt;em&gt;National Conference on Web Intelligence and Applications&lt;/em&gt;, 2015-06. Yilan, Taiwan.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;</description>
+      
+      <guid>//localhost:1313/publications/</guid>
+      <description>&lt;h4 id=&#34;international-journal&#34;&gt;International Journal&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Transfer Framework for Urban Spatio-Temporal Knowledge Based on Radial Basis Function,” &lt;em&gt;IEEE Transactions on Artificial Intelligence&lt;/em&gt;, vol. 5, no. 9, pp. 4458-4469, 2024.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Cheng-Ju Kuo, Li-Chun Hung, Min-Hsiung Hung, Chao-Chun Chen, and Chiang Lee, “Development of Lightweight RBF-DRNN and Automated Framework for CNC Tool-Wear Prediction,” &lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt;, Vol. 71, Article 2506711, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q1, IF:5.6)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, and Tzu-Yin Chang, “Identifying Key Grid Cells for Crowd Flow Predictions Based on CNN-based Models with the Grad-CAM Kit,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “Estate Price Prediction System Based on Temporal and Spatial Features and Lightweight Deep Learning Model,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;Yi-Chung Chen, Hsi-Ho Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Chiang Lee, “Joint Promotion Partner Recommendation Systems Using Data from Location-Based Social Networks,” &lt;em&gt;ISPRS International Journal of Geo-Information&lt;/em&gt;, vol. 10, no. 1, Article 57, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:2.8)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;Hua-Hong Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “Group Trip Recommendation Systems,” &lt;em&gt;Advances in Information and Communication Networks&lt;/em&gt;, vol. 886, pp. 391-412, 2019-1. (EI)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;unpublished&#34;&gt;Unpublished&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Knowledge Transfer for Spatio-temporal Flow Prediction Based on Radial Basis Function Transfer Blocks,” &lt;em&gt;IEEE Transactions on Intelligent Transportation Systems&lt;/em&gt;, under review, 2025.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhi-Gang Wen, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “CRBF-Net: Convolutional RBF Network for Key Grid Cells Selection in Spatial-Temporal Flow Prediction,” &lt;em&gt;ACM Transactions on Spatial Algorithms and Systems&lt;/em&gt;, under review, 2025.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;international-conference&#34;&gt;International Conference&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Chang-Hung Shih, Yang-Chou Juan, Liang-Jiun Wang, Yi-Chung Chen, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “Crowd Flow Prediction Model Using AutoEncoder and Deep Neural Network: Applications in Dynamic Urban Settings,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2025 (ICASI 2025)&lt;/em&gt;, 2025-04, Tokyo, Japan.&lt;/li&gt;
+&lt;li&gt;Ting-Hsuan Chang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen and Chiang Lee, “Using spatial, temporal, and external factors to enhance prediction of shared-transport users,” &lt;em&gt;Multidisciplinary International Social Networks Conference (MISNC)&lt;/em&gt;, 2022-10, Matsuyama, Japan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Yow-Shin Liou, Chiang Lee, Jia-Ching Ying, Chee-Hoe Loh and Jou-Wei Lin, “A Fast, Interactive, Location-based Food Recommendation Application,” &lt;em&gt;Multidisciplinary International Social Networks Conference (MISNC)&lt;/em&gt;, 2021-11, Bergen, Norway and Kaohsiung, Taiwan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Jou-Wei Lin, Cheng-Hsien Tsai, and Chiang Lee &amp;ldquo;An Interactive Health Management System for Self-supervised Health Management,&amp;rdquo; Proceeding on &lt;em&gt;IEEE Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (IEEE ECBIOS)&lt;/em&gt;, 2021-5, Tainan, Taiwan. &lt;font color=&#34;#96999A&#34;&gt;(Best Paper Award)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Feng-Jung Yang, Yi-Chung Chen, Chiang Lee, “Deep learning for Etiology of Chronic Kidney Disease in Taiwan,” &lt;em&gt;2nd IEEE Eurasia Conference on IOT, Communication and Engineering, 2020 (IEEE ECICE 2020)&lt;/em&gt;, 2020-10, Yunlin, Taiwan.&lt;/li&gt;
+&lt;li&gt;Chee-Hoe Loh, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Yi-Chung Chen, &amp;ldquo;Application of Hammerstein-Wiener Recurrent Neural Network to Accelerate Time-Series Skyline Queries,&amp;rdquo; &lt;em&gt;International Workshop of Machine Learning on Multimedia and Applications&lt;/em&gt;, 2019-08. Bali, Indonesia. &lt;font color=&#34;#96999A&#34;&gt;(Best Paper Award)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Chung-Ying Hsieh and Yi-Chung Chen, &amp;ldquo;Using the news in the social networks to predict the TAIEX stock price,&amp;rdquo; &lt;em&gt;International Joint Conference Of TCSE, JASPIC And SEA&lt;/em&gt;, 2019-07. Chiba, Japan and Taoyuan, Taiwan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Tien-Yen Chang, Yu-Liang Hsu, Heng-Yi Su, Hsi-Min Chen, Tzu-Yu Lin,&amp;ldquo;A Fast Way for Finding Similar Friends in Social Networks by using Neuro-Fuzzy Networks,&amp;rdquo; &lt;em&gt;2016 International Conference on Machine Learning and Cybernetics (ICMLC 2016)&lt;/em&gt;, 2016-07. Jeju Island, South Korea.&lt;/li&gt;
+&lt;li&gt;Yi-Chung Chen, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Heng-Yi Su, Hsi-Min Chen, Yu-Liang Hsu, and Yu-Ren Yang, &amp;ldquo;An Efficient and Precise Algorithm for Finding Similar Friends in Distributed Social Networks,&amp;rdquo; &lt;em&gt;International Conference on Information and Social Science (ISS 2016)&lt;/em&gt;, 2016-06. Sapporo, Japan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Heng-Yi Su and Yu-Liang Hsu, &amp;ldquo;Finding Similar Users in Social Networks by Using the Depth-k Skyline Query,&amp;rdquo; 2015 IEEE International Conference on Consumer Electronics, pp. 162-163 , 2015-06. Taipei, Taiwan.&lt;/li&gt;
+&lt;li&gt;Heng-Yi Su, Yi-Chung Chen, Qian-Hua Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Yu-Liang Hsu, &amp;ldquo;An Educational/Research-Aimed Tool for Voltage Stability Analysis in Smart Grids,&amp;rdquo; &lt;em&gt;2015 IEEE International Conference on Consumer Electronics&lt;/em&gt;, pp. 164-165, 2015-06. Taipei, Taiwan.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;domestic-conference&#34;&gt;Domestic Conference&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;劉佑炘, &lt;strong&gt;邱勝敏&lt;/strong&gt;, 李香蘭, 陳奕中, 李強, 尚榮康, 張子瑩, “利用CNN-LSTM及Grad-CAM擷取臺北市人流移動趨勢特徵值並建立輕量化模型預測人流量,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2021, Taiwan. &lt;font color=&#34;#96999A&#34;&gt;(Best Student Paper Award)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳奕中, 陳朝鈞, 李強, 洪莉珺,“基於模糊深度學習模型萃取深度特徵進而提升刀具壽命預測的準確性,” &lt;em&gt;Chinese Institute of Industrial Engineers Annual Conference, 2020 (CIIE2020)&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 郭巧玲, 范毅軍, 李強 “利用相似度投票法於歷史地圖圖徵萃取-以日治時期台灣堡圖為例,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2020, Taiwan.&lt;/li&gt;
+&lt;li&gt;李香蘭, 陳奕中, &lt;strong&gt;邱勝敏&lt;/strong&gt;, 李強, 尚榮康, 張子瑩, “雙北市人流資料與天氣的關係,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2020, Taiwan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳昱任, 羅志豪, 陳奕中, “基於遞迴式類神經網路之快速時間序列天際線查詢方法,” &lt;em&gt;WASN 2018, 無線、隨意及感測網路研討會&lt;/em&gt;, 2018-08, 桃園渴望會館.&lt;/li&gt;
+&lt;li&gt;Tze-Suen Lim, Yi-Chung Chen, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Wei-Lun Wang, and Wei-Hung Lin, “Time Series Skyline Query and Its Neural Filter,” 2017台灣軟體工程研討會 , pp. 307-312 , 2017-07.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳奕中, 楊東麟, 薛念林, 陳錫民, “基於倒傳遞模糊類神經網路之快速天際線朋友尋找演算法,” &lt;em&gt;2016 台灣軟體工程研討會(TCSE2016)&lt;/em&gt;, 2016-07. Keelung, Taiwan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt; and Yi-Chung Chen, “A Novel Algorithm for Finding Similar Friends in Social Networks,” &lt;em&gt;National Symposium on System Science and Engineering&lt;/em&gt;, 2015-07. Taipei, Taiwan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhong-Ying Xie, Pei-Bei Chen,Hung-Yu Wei, and Yi-Chung Chen, “Using the Concepts of Skyline Queries and Neural Networks to Accelerate the Processes of Finding Similar Users in Social Networks,” &lt;em&gt;National Conference on Web Intelligence and Applications&lt;/em&gt;, 2015-06. Yilan, Taiwan.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;</description>
+      <content>&lt;h4 id=&#34;international-journal&#34;&gt;International Journal&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Transfer Framework for Urban Spatio-Temporal Knowledge Based on Radial Basis Function,” &lt;em&gt;IEEE Transactions on Artificial Intelligence&lt;/em&gt;, vol. 5, no. 9, pp. 4458-4469, 2024.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Cheng-Ju Kuo, Li-Chun Hung, Min-Hsiung Hung, Chao-Chun Chen, and Chiang Lee, “Development of Lightweight RBF-DRNN and Automated Framework for CNC Tool-Wear Prediction,” &lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt;, Vol. 71, Article 2506711, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q1, IF:5.6)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, and Tzu-Yin Chang, “Identifying Key Grid Cells for Crowd Flow Predictions Based on CNN-based Models with the Grad-CAM Kit,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “Estate Price Prediction System Based on Temporal and Spatial Features and Lightweight Deep Learning Model,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;Yi-Chung Chen, Hsi-Ho Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Chiang Lee, “Joint Promotion Partner Recommendation Systems Using Data from Location-Based Social Networks,” &lt;em&gt;ISPRS International Journal of Geo-Information&lt;/em&gt;, vol. 10, no. 1, Article 57, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:2.8)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;Hua-Hong Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “Group Trip Recommendation Systems,” &lt;em&gt;Advances in Information and Communication Networks&lt;/em&gt;, vol. 886, pp. 391-412, 2019-1. (EI)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;unpublished&#34;&gt;Unpublished&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Knowledge Transfer for Spatio-temporal Flow Prediction Based on Radial Basis Function Transfer Blocks,” &lt;em&gt;IEEE Transactions on Intelligent Transportation Systems&lt;/em&gt;, under review, 2025.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhi-Gang Wen, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “CRBF-Net: Convolutional RBF Network for Key Grid Cells Selection in Spatial-Temporal Flow Prediction,” &lt;em&gt;ACM Transactions on Spatial Algorithms and Systems&lt;/em&gt;, under review, 2025.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;international-conference&#34;&gt;International Conference&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Chang-Hung Shih, Yang-Chou Juan, Liang-Jiun Wang, Yi-Chung Chen, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “Crowd Flow Prediction Model Using AutoEncoder and Deep Neural Network: Applications in Dynamic Urban Settings,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2025 (ICASI 2025)&lt;/em&gt;, 2025-04, Tokyo, Japan.&lt;/li&gt;
+&lt;li&gt;Ting-Hsuan Chang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen and Chiang Lee, “Using spatial, temporal, and external factors to enhance prediction of shared-transport users,” &lt;em&gt;Multidisciplinary International Social Networks Conference (MISNC)&lt;/em&gt;, 2022-10, Matsuyama, Japan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Yow-Shin Liou, Chiang Lee, Jia-Ching Ying, Chee-Hoe Loh and Jou-Wei Lin, “A Fast, Interactive, Location-based Food Recommendation Application,” &lt;em&gt;Multidisciplinary International Social Networks Conference (MISNC)&lt;/em&gt;, 2021-11, Bergen, Norway and Kaohsiung, Taiwan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Jou-Wei Lin, Cheng-Hsien Tsai, and Chiang Lee &amp;ldquo;An Interactive Health Management System for Self-supervised Health Management,&amp;rdquo; Proceeding on &lt;em&gt;IEEE Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (IEEE ECBIOS)&lt;/em&gt;, 2021-5, Tainan, Taiwan. &lt;font color=&#34;#96999A&#34;&gt;(Best Paper Award)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Feng-Jung Yang, Yi-Chung Chen, Chiang Lee, “Deep learning for Etiology of Chronic Kidney Disease in Taiwan,” &lt;em&gt;2nd IEEE Eurasia Conference on IOT, Communication and Engineering, 2020 (IEEE ECICE 2020)&lt;/em&gt;, 2020-10, Yunlin, Taiwan.&lt;/li&gt;
+&lt;li&gt;Chee-Hoe Loh, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Yi-Chung Chen, &amp;ldquo;Application of Hammerstein-Wiener Recurrent Neural Network to Accelerate Time-Series Skyline Queries,&amp;rdquo; &lt;em&gt;International Workshop of Machine Learning on Multimedia and Applications&lt;/em&gt;, 2019-08. Bali, Indonesia. &lt;font color=&#34;#96999A&#34;&gt;(Best Paper Award)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Chung-Ying Hsieh and Yi-Chung Chen, &amp;ldquo;Using the news in the social networks to predict the TAIEX stock price,&amp;rdquo; &lt;em&gt;International Joint Conference Of TCSE, JASPIC And SEA&lt;/em&gt;, 2019-07. Chiba, Japan and Taoyuan, Taiwan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Tien-Yen Chang, Yu-Liang Hsu, Heng-Yi Su, Hsi-Min Chen, Tzu-Yu Lin,&amp;ldquo;A Fast Way for Finding Similar Friends in Social Networks by using Neuro-Fuzzy Networks,&amp;rdquo; &lt;em&gt;2016 International Conference on Machine Learning and Cybernetics (ICMLC 2016)&lt;/em&gt;, 2016-07. Jeju Island, South Korea.&lt;/li&gt;
+&lt;li&gt;Yi-Chung Chen, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Heng-Yi Su, Hsi-Min Chen, Yu-Liang Hsu, and Yu-Ren Yang, &amp;ldquo;An Efficient and Precise Algorithm for Finding Similar Friends in Distributed Social Networks,&amp;rdquo; &lt;em&gt;International Conference on Information and Social Science (ISS 2016)&lt;/em&gt;, 2016-06. Sapporo, Japan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Heng-Yi Su and Yu-Liang Hsu, &amp;ldquo;Finding Similar Users in Social Networks by Using the Depth-k Skyline Query,&amp;rdquo; 2015 IEEE International Conference on Consumer Electronics, pp. 162-163 , 2015-06. Taipei, Taiwan.&lt;/li&gt;
+&lt;li&gt;Heng-Yi Su, Yi-Chung Chen, Qian-Hua Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Yu-Liang Hsu, &amp;ldquo;An Educational/Research-Aimed Tool for Voltage Stability Analysis in Smart Grids,&amp;rdquo; &lt;em&gt;2015 IEEE International Conference on Consumer Electronics&lt;/em&gt;, pp. 164-165, 2015-06. Taipei, Taiwan.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;domestic-conference&#34;&gt;Domestic Conference&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;劉佑炘, &lt;strong&gt;邱勝敏&lt;/strong&gt;, 李香蘭, 陳奕中, 李強, 尚榮康, 張子瑩, “利用CNN-LSTM及Grad-CAM擷取臺北市人流移動趨勢特徵值並建立輕量化模型預測人流量,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2021, Taiwan. &lt;font color=&#34;#96999A&#34;&gt;(Best Student Paper Award)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳奕中, 陳朝鈞, 李強, 洪莉珺,“基於模糊深度學習模型萃取深度特徵進而提升刀具壽命預測的準確性,” &lt;em&gt;Chinese Institute of Industrial Engineers Annual Conference, 2020 (CIIE2020)&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 郭巧玲, 范毅軍, 李強 “利用相似度投票法於歷史地圖圖徵萃取-以日治時期台灣堡圖為例,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2020, Taiwan.&lt;/li&gt;
+&lt;li&gt;李香蘭, 陳奕中, &lt;strong&gt;邱勝敏&lt;/strong&gt;, 李強, 尚榮康, 張子瑩, “雙北市人流資料與天氣的關係,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2020, Taiwan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳昱任, 羅志豪, 陳奕中, “基於遞迴式類神經網路之快速時間序列天際線查詢方法,” &lt;em&gt;WASN 2018, 無線、隨意及感測網路研討會&lt;/em&gt;, 2018-08, 桃園渴望會館.&lt;/li&gt;
+&lt;li&gt;Tze-Suen Lim, Yi-Chung Chen, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Wei-Lun Wang, and Wei-Hung Lin, “Time Series Skyline Query and Its Neural Filter,” 2017台灣軟體工程研討會 , pp. 307-312 , 2017-07.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳奕中, 楊東麟, 薛念林, 陳錫民, “基於倒傳遞模糊類神經網路之快速天際線朋友尋找演算法,” &lt;em&gt;2016 台灣軟體工程研討會(TCSE2016)&lt;/em&gt;, 2016-07. Keelung, Taiwan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt; and Yi-Chung Chen, “A Novel Algorithm for Finding Similar Friends in Social Networks,” &lt;em&gt;National Symposium on System Science and Engineering&lt;/em&gt;, 2015-07. Taipei, Taiwan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhong-Ying Xie, Pei-Bei Chen,Hung-Yu Wei, and Yi-Chung Chen, “Using the Concepts of Skyline Queries and Neural Networks to Accelerate the Processes of Finding Similar Users in Social Networks,” &lt;em&gt;National Conference on Web Intelligence and Applications&lt;/em&gt;, 2015-06. Yilan, Taiwan.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+</content>
     </item>
+    
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description>&lt;h1 id=&#34;hello-in-a-new-age&#34;&gt;Hello in a new age&lt;/h1&gt;&#xA;&lt;p&gt;You can call me Mirus and I forked the original Terminal theme for Hugo, because Radek, the original creator of the theme stop the maintenance and archived the repo.&lt;/p&gt;&#xA;&lt;p&gt;So I already pushed a few improvements that I did for my humble blog and I&amp;rsquo;m going to add some more features in the future, also any contribution is welcome&lt;/p&gt;&#xA;&lt;p&gt;Below you can read the original about from Radek&lt;/p&gt;</description>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;hello-in-a-new-age&#34;&gt;Hello in a new age&lt;/h1&gt;
+&lt;p&gt;You can call me Mirus and I forked the original Terminal theme for Hugo, because Radek, the original creator of the theme stop the maintenance and archived the repo.&lt;/p&gt;
+&lt;p&gt;So I already pushed a few improvements that I did for my humble blog and I&amp;rsquo;m going to add some more features in the future, also any contribution is welcome&lt;/p&gt;
+&lt;p&gt;Below you can read the original about from Radek&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;hello-in-a-new-age&#34;&gt;Hello in a new age&lt;/h1&gt;
+&lt;p&gt;You can call me Mirus and I forked the original Terminal theme for Hugo, because Radek, the original creator of the theme stop the maintenance and archived the repo.&lt;/p&gt;
+&lt;p&gt;So I already pushed a few improvements that I did for my humble blog and I&amp;rsquo;m going to add some more features in the future, also any contribution is welcome&lt;/p&gt;
+&lt;p&gt;Below you can read the original about from Radek&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Hi there
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;My name is Radek and I&amp;#39;m the author of this theme.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;I made it to help you present your ideas easier.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;We all know how hard is to start something on the web,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;especially these days. You need to prepare a bunch of stuff,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;configure them and when that’s done — create the content.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;This theme is pretty basic and covers all of the essentials.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;All you have to do is start typing!
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;The theme includes:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;- **5 duotone themes**,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;depending on your preferences (orange, red, blue, green, pink)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;- [**Fira Code**](https://github.com/tonsky/FiraCode)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;as default monospaced font. It&amp;#39;s gorgeous!
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;- **really nice, custom duotone** syntax highlighting based on
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[**PrismJS**](https://prismjs.com)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;- mobile friendly layout
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;So, there you have it... enjoy!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
     </item>
+    
     <item>
       <title>Showcase</title>
-      <link>/showcase/</link>
+      <link>//localhost:1313/showcase/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/showcase/</guid>
-      <description>&lt;h1 id=&#34;features-in-updates&#34;&gt;Features in updates&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/posts/css-vars/&#34;&gt;native CSS variables showcase&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;</description>
+      
+      <guid>//localhost:1313/showcase/</guid>
+      <description>&lt;h1 id=&#34;features-in-updates&#34;&gt;Features in updates&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/css-vars/&#34;&gt;native CSS variables showcase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;features-in-updates&#34;&gt;Features in updates&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/css-vars/&#34;&gt;native CSS variables showcase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;header-3&#34;&gt;Header 3&lt;/h3&gt;
+&lt;p&gt;Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, &lt;code&gt;odio a dignissim pharetra&lt;/code&gt;, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* PostCSS code */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;pre&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;background&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;#1a1a1d&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;border-radius&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;font-size&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;rem&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;overflow&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;auto&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;@media&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;($phone)&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;white-space&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;pre-wrap&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;word-wrap&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;break-word&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;code&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;background&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;none&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;!important&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;#ccc&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;font-size&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inherit&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// JS code
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;querySelector&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.menu-trigger&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;querySelector&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.menu&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mobileQuery&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;getComputedStyle&lt;/span&gt;(document.&lt;span style=&#34;color:#a6e22e&#34;&gt;body&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;getPropertyValue&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;--phoneWidth&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; () =&amp;gt; window.&lt;span style=&#34;color:#a6e22e&#34;&gt;matchMedia&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;mobileQuery&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;matches&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; () =&amp;gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;addEventListener&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;click&amp;#39;&lt;/span&gt;, () =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;))
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;window.&lt;span style=&#34;color:#a6e22e&#34;&gt;addEventListener&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;resize&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- HTML code --&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;main&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt;&amp;gt;{{ .Title }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    {{ range .Pages }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      {{ .Render &amp;#34;summary&amp;#34;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    {{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;header-4&#34;&gt;Header 4&lt;/h4&gt;
+&lt;p&gt;Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie gravida blandit at, mollis ornare tellus. Cras arcu mi, ultrices vel pulvinar vel, volutpat eu tortor. Nullam nec eros quis massa ultrices iaculis sed in metus. Praesent sollicitudin sem sit amet orci tempor gravida.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maecenas elementum vitae nibh vitae porttitor.&lt;/li&gt;
+&lt;li&gt;Aenean consequat, risus ut cursus placerat, arcu nulla sodales risus, ut molestie tellus tellus et dui.&lt;/li&gt;
+&lt;li&gt;Integer imperdiet turpis vitae lacus imperdiet, ut ornare ligula auctor. Integer in mi eu velit vehicula suscipit eget vulputate nulla.&lt;/li&gt;
+&lt;li&gt;Etiam vitae enim quis velit lobortis placerat a ut sem.
+&lt;ul&gt;
+&lt;li&gt;Curabitur lobortis ante sit amet orci pulvinar, sollicitudin viverra nunc accumsan.&lt;/li&gt;
+&lt;li&gt;Praesent fermentum orci quis leo facilisis posuere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Courses</title>
-      <link>/courses/</link>
+      <link>//localhost:1313/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/</guid>
-      <description>&lt;h1 id=&#34;2025-fall-114-1&#34;&gt;2025 Fall (114-1)&lt;/h1&gt;&#xA;&lt;h4 id=&#34;undergraduate-大學部&#34;&gt;undergraduate 大學部&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introduction to Machine Learning 機器學習導論&lt;br&gt;&lt;font color=&#34;#96999A&#34;&gt;&lt;em&gt;English as a Medium of Instruction(EMI)&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;2025-spring-113-2&#34;&gt;2025 spring (113-2)&lt;/h1&gt;&#xA;&lt;h4 id=&#34;undergraduate-大學部-1&#34;&gt;undergraduate 大學部&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Linear algebra 線性代數&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;graduate-研究所&#34;&gt;graduate 研究所&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Artificial intelligence 人工智慧&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+      <guid>//localhost:1313/courses/</guid>
+      <description>&lt;h1 id=&#34;2025-fall-114-1&#34;&gt;2025 Fall (114-1)&lt;/h1&gt;
+&lt;h4 id=&#34;undergraduate-大學部&#34;&gt;undergraduate 大學部&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Machine Learning 機器學習導論&lt;br&gt;&lt;font color=&#34;#96999A&#34;&gt;&lt;em&gt;English as a Medium of Instruction(EMI)&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2025-spring-113-2&#34;&gt;2025 spring (113-2)&lt;/h1&gt;
+&lt;h4 id=&#34;undergraduate-大學部-1&#34;&gt;undergraduate 大學部&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Linear algebra 線性代數&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;graduate-研究所&#34;&gt;graduate 研究所&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial intelligence 人工智慧&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;h1 id=&#34;2025-fall-114-1&#34;&gt;2025 Fall (114-1)&lt;/h1&gt;
+&lt;h4 id=&#34;undergraduate-大學部&#34;&gt;undergraduate 大學部&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Machine Learning 機器學習導論&lt;br&gt;&lt;font color=&#34;#96999A&#34;&gt;&lt;em&gt;English as a Medium of Instruction(EMI)&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2025-spring-113-2&#34;&gt;2025 spring (113-2)&lt;/h1&gt;
+&lt;h4 id=&#34;undergraduate-大學部-1&#34;&gt;undergraduate 大學部&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Linear algebra 線性代數&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;graduate-研究所&#34;&gt;graduate 研究所&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial intelligence 人工智慧&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
+    
     <item>
       <title>Members</title>
-      <link>/members/</link>
+      <link>//localhost:1313/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/members/</guid>
-      <description>&lt;h3 id=&#34;ms-students&#34;&gt;MS Students&lt;/h3&gt;&#xA;&lt;p&gt;2025 (seminar 114)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;蔡易志 (Ian Tsai)&lt;/li&gt;&#xA;&lt;li&gt;詹宇倫&lt;/li&gt;&#xA;&lt;li&gt;原﨑厚儒&lt;/li&gt;&#xA;&lt;li&gt;陳偉華 (William Chen)&lt;/li&gt;&#xA;&lt;li&gt;吳吉恩 (David Wu)&lt;/li&gt;&#xA;&lt;li&gt;張祐熏&lt;/li&gt;&#xA;&lt;li&gt;Penta Paramayoga&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;bachelor-students-nsysu&#34;&gt;Bachelor Students (NSYSU)&lt;/h3&gt;&#xA;&lt;p&gt;2025 (seminar 114)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;周霖 (Chou Lin), 李瑞紘 (Ruei Lee)&lt;/li&gt;&#xA;&lt;li&gt;陳圖億, 盧品言, 陳義竑&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;bachelor-students-nuu&#34;&gt;Bachelor Students (NUU)&lt;/h3&gt;&#xA;&lt;p&gt;2024 (seminar 113)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;涂正崑, 王任傑, 朱胡城瑋, 黃博碩&lt;/li&gt;&#xA;&lt;li&gt;陳岳維, 陳昱安, 黃尉家&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;!-- ### Alumni --&gt;</description>
+      
+      <guid>//localhost:1313/members/</guid>
+      <description>&lt;h3 id=&#34;ms-students&#34;&gt;MS Students&lt;/h3&gt;
+&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;蔡易志 (Ian Tsai)&lt;/li&gt;
+&lt;li&gt;詹宇倫&lt;/li&gt;
+&lt;li&gt;原﨑厚儒&lt;/li&gt;
+&lt;li&gt;陳偉華 (William Chen)&lt;/li&gt;
+&lt;li&gt;吳吉恩 (David Wu)&lt;/li&gt;
+&lt;li&gt;張祐熏&lt;/li&gt;
+&lt;li&gt;Penta Paramayoga&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bachelor-students-nsysu&#34;&gt;Bachelor Students (NSYSU)&lt;/h3&gt;
+&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;周霖 (Chou Lin), 李瑞紘 (Ruei Lee)&lt;/li&gt;
+&lt;li&gt;陳圖億, 盧品言, 陳義竑&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bachelor-students-nuu&#34;&gt;Bachelor Students (NUU)&lt;/h3&gt;
+&lt;p&gt;2024 (seminar 113)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;涂正崑, 王任傑, 朱胡城瑋, 黃博碩&lt;/li&gt;
+&lt;li&gt;陳岳維, 陳昱安, 黃尉家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;!-- ### Alumni --&gt;</description>
+      <content>&lt;h3 id=&#34;ms-students&#34;&gt;MS Students&lt;/h3&gt;
+&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;蔡易志 (Ian Tsai)&lt;/li&gt;
+&lt;li&gt;詹宇倫&lt;/li&gt;
+&lt;li&gt;原﨑厚儒&lt;/li&gt;
+&lt;li&gt;陳偉華 (William Chen)&lt;/li&gt;
+&lt;li&gt;吳吉恩 (David Wu)&lt;/li&gt;
+&lt;li&gt;張祐熏&lt;/li&gt;
+&lt;li&gt;Penta Paramayoga&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bachelor-students-nsysu&#34;&gt;Bachelor Students (NSYSU)&lt;/h3&gt;
+&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;周霖 (Chou Lin), 李瑞紘 (Ruei Lee)&lt;/li&gt;
+&lt;li&gt;陳圖億, 盧品言, 陳義竑&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bachelor-students-nuu&#34;&gt;Bachelor Students (NUU)&lt;/h3&gt;
+&lt;p&gt;2024 (seminar 113)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;涂正崑, 王任傑, 朱胡城瑋, 黃博碩&lt;/li&gt;
+&lt;li&gt;陳岳維, 陳昱安, 黃尉家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;!-- ### Alumni --&gt;
+</content>
     </item>
+    
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>//localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/</guid>
-      <description>&lt;h2 id=&#34;-research-projects--研究計畫&#34;&gt;📝 Research Projects | 研究計畫&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Project Title&lt;/th&gt;&#xA;          &lt;th&gt;Institution&lt;/th&gt;&#xA;          &lt;th&gt;Duration&lt;/th&gt;&#xA;          &lt;th&gt;Role&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;基於可解釋性大型時空模型的智慧都市時空輕量化混合專家邊緣 AI 生成框架(1/3) &lt;br&gt;&lt;em&gt;A Lightweight Spatiotemporal Mixture-of-Expert Edge AI Generation Framework for Smart Cities Based on Explainable Large Spatiotemporal Models&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;&#xA;          &lt;td&gt;2025/05/01~&lt;br&gt;2026/04/30&lt;/td&gt;&#xA;          &lt;td&gt;主持人P.I.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;基於徑向基函數的時空知識轉移對異常情況下之全市大眾運輸流量預測 &lt;br&gt;&lt;em&gt;Spatial-temporal Knowledge Transfer Based on RBF for Prediction of City-wide Public Transportation Flow under Abnormal Situations&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;&#xA;          &lt;td&gt;2022/08/01~&lt;br&gt;2023/07/31&lt;/td&gt;&#xA;          &lt;td&gt;R.A.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;以生成式對抗網路對於非常態事件情形下之大眾運輸流量預測之研究 &lt;br&gt; &lt;em&gt;Research on the Prediction of Public Transportation Flow under Abnormal Events by Using the Generative Adversarial Network&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;&#xA;          &lt;td&gt;2021/08/01~&lt;br&gt;2022/07/31&lt;/td&gt;&#xA;          &lt;td&gt;R.A.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;基於深度學習進行時間空間特徵擷取之房地產售價預測系統 &lt;br&gt; &lt;em&gt;Temporal and Spatial Feature Extraction Based on Deep Learning for Predicting Real Estate Price&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;&#xA;          &lt;td&gt;2019/08/01~&lt;br&gt;2020/07/31&lt;/td&gt;&#xA;          &lt;td&gt;R.A.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;基於人流資料之前瞻性交通、商展、社群大數據分析研究及台灣地區人流數據收集平台 &lt;br&gt; &lt;em&gt;Prospective People Flow Data-based Research on the Analysis of Big Data from Community, Trade Shows, and Transportation &amp;amp; Platform for the Collection of People Flow Data in Taiwan&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;&#xA;          &lt;td&gt;2018/12/01~&lt;br&gt;2021/11/30&lt;/td&gt;&#xA;          &lt;td&gt;R.A.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;基於新型態適地性社群網路之緊急醫療事件探知及其數據分析演算法(I) &lt;br&gt; &lt;em&gt;Emergency Medical Events Discovery and Data Analysis Algorithms Based on Novel Location-Based Social Networks(I)&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;&#xA;          &lt;td&gt;2018/08/01~&lt;br&gt;2019/08/31&lt;/td&gt;&#xA;          &lt;td&gt;R.A.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;基於天際線查詢與系統鑒別技術之社群網路稀疏資料庫建置之研究(大專生計畫) &lt;br&gt; &lt;em&gt;Based on Skyline Query and System Identification Technology Construct a Sparse Social Network Database&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;&#xA;          &lt;td&gt;2016/07/01~&lt;br&gt;2017/02/28&lt;/td&gt;&#xA;          &lt;td&gt;R.A.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;基於系統鑒別技術、雲端計算與自願性地理資訊之即時淹水潛勢圖的建置，以及即時淹水潛勢圖線上查詢服務 &lt;br&gt; &lt;em&gt;Building Real-Time Flood Inundation Maps based on System Identification, Cloud Computing and Volunteered Geographic Information, and the Development of a Flood Risk Online Search System&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;&#xA;          &lt;td&gt;2016/08/01~&lt;br&gt;2017/07/31&lt;/td&gt;&#xA;          &lt;td&gt;R.A.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;利用系統鑑別技巧提升巨量時空資料查詢的效率 &lt;br&gt; &lt;em&gt;Efficient promotion of querying the big spatio-temporal data by using the techniques of system identification&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;&#xA;          &lt;td&gt;2015/08/01~&lt;br&gt;2016/07/31&lt;/td&gt;&#xA;          &lt;td&gt;R.A.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-collaboration-projects--產學合作計畫&#34;&gt;🤝 Collaboration Projects | 產學合作計畫&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Project Title&lt;/th&gt;&#xA;          &lt;th&gt;Institution&lt;/th&gt;&#xA;          &lt;th&gt;Duration&lt;/th&gt;&#xA;          &lt;th&gt;Role&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;用於自我監督健康管理的互動式App &lt;br&gt; &lt;em&gt;Interactive Mobile App for Self-Supervised Health Management&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;台大醫院雲林分院 NTU Hospital&lt;/td&gt;&#xA;          &lt;td&gt;2021/01~2021/12&lt;/td&gt;&#xA;          &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;具廣泛性及即時監控之機械加工廠大量刀具管理暨壽命監控預測系統 &lt;br&gt; &lt;em&gt;Comprehensive Mass Tool Management and Life Prediction System with Real-Time Monitoring&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;翔程科技 MANUTEQ&lt;/td&gt;&#xA;          &lt;td&gt;2019/11~2020/10&lt;/td&gt;&#xA;          &lt;td&gt;合作研究員 Collaborating PI&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;人流資料處理與分析 &lt;br&gt; &lt;em&gt;Crowd Flow Data Processing and Analysis&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;國家災害防救科技中心 NCDR&lt;/td&gt;&#xA;          &lt;td&gt;2019/11~2020/02&lt;/td&gt;&#xA;          &lt;td&gt;研究助理 R.A.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;加注設備之線上管理服務系統 &lt;br&gt; &lt;em&gt;Online Management Service System for Filling Equipment&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;統一石化股份有限公司 Prosperco Petrochemical Inc.&lt;/td&gt;&#xA;          &lt;td&gt;2019/11~2020/06&lt;/td&gt;&#xA;          &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;結合深度學習演算法之刀具磨耗推估研究 &lt;br&gt; &lt;em&gt;Research on Tool Wear Estimation Based on Deep Learning&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;精密機械研究發展中心 Precision Machinery R&amp;amp;D Center (PMC)&lt;/td&gt;&#xA;          &lt;td&gt;2019/03~2019/11&lt;/td&gt;&#xA;          &lt;td&gt;研究助理 R.A.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;利用深度學習模型擷取PM2.5與慢性腎臟病間的關鍵因子 &lt;br&gt; &lt;em&gt;Using Deep Learning Models to Extract Key Features Between PM2.5 and Chronic Kidney Disease&lt;/em&gt;&lt;/td&gt;&#xA;          &lt;td&gt;台大醫院雲林分院 NTU Hospital&lt;/td&gt;&#xA;          &lt;td&gt;2019/01~2019/12&lt;/td&gt;&#xA;          &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;</description>
+      
+      <guid>//localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;-research-projects--研究計畫&#34;&gt;📝 Research Projects | 研究計畫&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Project Title&lt;/th&gt;
+          &lt;th&gt;Institution&lt;/th&gt;
+          &lt;th&gt;Duration&lt;/th&gt;
+          &lt;th&gt;Role&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於可解釋性大型時空模型的智慧都市時空輕量化混合專家邊緣 AI 生成框架(1/3) &lt;br&gt;&lt;em&gt;A Lightweight Spatiotemporal Mixture-of-Expert Edge AI Generation Framework for Smart Cities Based on Explainable Large Spatiotemporal Models&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2025/05/01~&lt;br&gt;2026/04/30&lt;/td&gt;
+          &lt;td&gt;主持人P.I.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於徑向基函數的時空知識轉移對異常情況下之全市大眾運輸流量預測 &lt;br&gt;&lt;em&gt;Spatial-temporal Knowledge Transfer Based on RBF for Prediction of City-wide Public Transportation Flow under Abnormal Situations&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2022/08/01~&lt;br&gt;2023/07/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;以生成式對抗網路對於非常態事件情形下之大眾運輸流量預測之研究 &lt;br&gt; &lt;em&gt;Research on the Prediction of Public Transportation Flow under Abnormal Events by Using the Generative Adversarial Network&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2021/08/01~&lt;br&gt;2022/07/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於深度學習進行時間空間特徵擷取之房地產售價預測系統 &lt;br&gt; &lt;em&gt;Temporal and Spatial Feature Extraction Based on Deep Learning for Predicting Real Estate Price&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2019/08/01~&lt;br&gt;2020/07/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於人流資料之前瞻性交通、商展、社群大數據分析研究及台灣地區人流數據收集平台 &lt;br&gt; &lt;em&gt;Prospective People Flow Data-based Research on the Analysis of Big Data from Community, Trade Shows, and Transportation &amp;amp; Platform for the Collection of People Flow Data in Taiwan&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2018/12/01~&lt;br&gt;2021/11/30&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於新型態適地性社群網路之緊急醫療事件探知及其數據分析演算法(I) &lt;br&gt; &lt;em&gt;Emergency Medical Events Discovery and Data Analysis Algorithms Based on Novel Location-Based Social Networks(I)&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2018/08/01~&lt;br&gt;2019/08/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於天際線查詢與系統鑒別技術之社群網路稀疏資料庫建置之研究(大專生計畫) &lt;br&gt; &lt;em&gt;Based on Skyline Query and System Identification Technology Construct a Sparse Social Network Database&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2016/07/01~&lt;br&gt;2017/02/28&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於系統鑒別技術、雲端計算與自願性地理資訊之即時淹水潛勢圖的建置，以及即時淹水潛勢圖線上查詢服務 &lt;br&gt; &lt;em&gt;Building Real-Time Flood Inundation Maps based on System Identification, Cloud Computing and Volunteered Geographic Information, and the Development of a Flood Risk Online Search System&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2016/08/01~&lt;br&gt;2017/07/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;利用系統鑑別技巧提升巨量時空資料查詢的效率 &lt;br&gt; &lt;em&gt;Efficient promotion of querying the big spatio-temporal data by using the techniques of system identification&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2015/08/01~&lt;br&gt;2016/07/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-collaboration-projects--產學合作計畫&#34;&gt;🤝 Collaboration Projects | 產學合作計畫&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Project Title&lt;/th&gt;
+          &lt;th&gt;Institution&lt;/th&gt;
+          &lt;th&gt;Duration&lt;/th&gt;
+          &lt;th&gt;Role&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;用於自我監督健康管理的互動式App &lt;br&gt; &lt;em&gt;Interactive Mobile App for Self-Supervised Health Management&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;台大醫院雲林分院 NTU Hospital&lt;/td&gt;
+          &lt;td&gt;2021/01~2021/12&lt;/td&gt;
+          &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;具廣泛性及即時監控之機械加工廠大量刀具管理暨壽命監控預測系統 &lt;br&gt; &lt;em&gt;Comprehensive Mass Tool Management and Life Prediction System with Real-Time Monitoring&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;翔程科技 MANUTEQ&lt;/td&gt;
+          &lt;td&gt;2019/11~2020/10&lt;/td&gt;
+          &lt;td&gt;合作研究員 Collaborating PI&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;人流資料處理與分析 &lt;br&gt; &lt;em&gt;Crowd Flow Data Processing and Analysis&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國家災害防救科技中心 NCDR&lt;/td&gt;
+          &lt;td&gt;2019/11~2020/02&lt;/td&gt;
+          &lt;td&gt;研究助理 R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;加注設備之線上管理服務系統 &lt;br&gt; &lt;em&gt;Online Management Service System for Filling Equipment&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;統一石化股份有限公司 Prosperco Petrochemical Inc.&lt;/td&gt;
+          &lt;td&gt;2019/11~2020/06&lt;/td&gt;
+          &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;結合深度學習演算法之刀具磨耗推估研究 &lt;br&gt; &lt;em&gt;Research on Tool Wear Estimation Based on Deep Learning&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;精密機械研究發展中心 Precision Machinery R&amp;amp;D Center (PMC)&lt;/td&gt;
+          &lt;td&gt;2019/03~2019/11&lt;/td&gt;
+          &lt;td&gt;研究助理 R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;利用深度學習模型擷取PM2.5與慢性腎臟病間的關鍵因子 &lt;br&gt; &lt;em&gt;Using Deep Learning Models to Extract Key Features Between PM2.5 and Chronic Kidney Disease&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;台大醫院雲林分院 NTU Hospital&lt;/td&gt;
+          &lt;td&gt;2019/01~2019/12&lt;/td&gt;
+          &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;</description>
+      <content>&lt;h2 id=&#34;-research-projects--研究計畫&#34;&gt;📝 Research Projects | 研究計畫&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Project Title&lt;/th&gt;
+          &lt;th&gt;Institution&lt;/th&gt;
+          &lt;th&gt;Duration&lt;/th&gt;
+          &lt;th&gt;Role&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於可解釋性大型時空模型的智慧都市時空輕量化混合專家邊緣 AI 生成框架(1/3) &lt;br&gt;&lt;em&gt;A Lightweight Spatiotemporal Mixture-of-Expert Edge AI Generation Framework for Smart Cities Based on Explainable Large Spatiotemporal Models&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2025/05/01~&lt;br&gt;2026/04/30&lt;/td&gt;
+          &lt;td&gt;主持人P.I.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於徑向基函數的時空知識轉移對異常情況下之全市大眾運輸流量預測 &lt;br&gt;&lt;em&gt;Spatial-temporal Knowledge Transfer Based on RBF for Prediction of City-wide Public Transportation Flow under Abnormal Situations&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2022/08/01~&lt;br&gt;2023/07/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;以生成式對抗網路對於非常態事件情形下之大眾運輸流量預測之研究 &lt;br&gt; &lt;em&gt;Research on the Prediction of Public Transportation Flow under Abnormal Events by Using the Generative Adversarial Network&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2021/08/01~&lt;br&gt;2022/07/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於深度學習進行時間空間特徵擷取之房地產售價預測系統 &lt;br&gt; &lt;em&gt;Temporal and Spatial Feature Extraction Based on Deep Learning for Predicting Real Estate Price&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2019/08/01~&lt;br&gt;2020/07/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於人流資料之前瞻性交通、商展、社群大數據分析研究及台灣地區人流數據收集平台 &lt;br&gt; &lt;em&gt;Prospective People Flow Data-based Research on the Analysis of Big Data from Community, Trade Shows, and Transportation &amp;amp; Platform for the Collection of People Flow Data in Taiwan&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2018/12/01~&lt;br&gt;2021/11/30&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於新型態適地性社群網路之緊急醫療事件探知及其數據分析演算法(I) &lt;br&gt; &lt;em&gt;Emergency Medical Events Discovery and Data Analysis Algorithms Based on Novel Location-Based Social Networks(I)&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2018/08/01~&lt;br&gt;2019/08/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於天際線查詢與系統鑒別技術之社群網路稀疏資料庫建置之研究(大專生計畫) &lt;br&gt; &lt;em&gt;Based on Skyline Query and System Identification Technology Construct a Sparse Social Network Database&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2016/07/01~&lt;br&gt;2017/02/28&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基於系統鑒別技術、雲端計算與自願性地理資訊之即時淹水潛勢圖的建置，以及即時淹水潛勢圖線上查詢服務 &lt;br&gt; &lt;em&gt;Building Real-Time Flood Inundation Maps based on System Identification, Cloud Computing and Volunteered Geographic Information, and the Development of a Flood Risk Online Search System&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2016/08/01~&lt;br&gt;2017/07/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;利用系統鑑別技巧提升巨量時空資料查詢的效率 &lt;br&gt; &lt;em&gt;Efficient promotion of querying the big spatio-temporal data by using the techniques of system identification&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
+          &lt;td&gt;2015/08/01~&lt;br&gt;2016/07/31&lt;/td&gt;
+          &lt;td&gt;R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-collaboration-projects--產學合作計畫&#34;&gt;🤝 Collaboration Projects | 產學合作計畫&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Project Title&lt;/th&gt;
+          &lt;th&gt;Institution&lt;/th&gt;
+          &lt;th&gt;Duration&lt;/th&gt;
+          &lt;th&gt;Role&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;用於自我監督健康管理的互動式App &lt;br&gt; &lt;em&gt;Interactive Mobile App for Self-Supervised Health Management&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;台大醫院雲林分院 NTU Hospital&lt;/td&gt;
+          &lt;td&gt;2021/01~2021/12&lt;/td&gt;
+          &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;具廣泛性及即時監控之機械加工廠大量刀具管理暨壽命監控預測系統 &lt;br&gt; &lt;em&gt;Comprehensive Mass Tool Management and Life Prediction System with Real-Time Monitoring&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;翔程科技 MANUTEQ&lt;/td&gt;
+          &lt;td&gt;2019/11~2020/10&lt;/td&gt;
+          &lt;td&gt;合作研究員 Collaborating PI&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;人流資料處理與分析 &lt;br&gt; &lt;em&gt;Crowd Flow Data Processing and Analysis&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;國家災害防救科技中心 NCDR&lt;/td&gt;
+          &lt;td&gt;2019/11~2020/02&lt;/td&gt;
+          &lt;td&gt;研究助理 R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;加注設備之線上管理服務系統 &lt;br&gt; &lt;em&gt;Online Management Service System for Filling Equipment&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;統一石化股份有限公司 Prosperco Petrochemical Inc.&lt;/td&gt;
+          &lt;td&gt;2019/11~2020/06&lt;/td&gt;
+          &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;結合深度學習演算法之刀具磨耗推估研究 &lt;br&gt; &lt;em&gt;Research on Tool Wear Estimation Based on Deep Learning&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;精密機械研究發展中心 Precision Machinery R&amp;amp;D Center (PMC)&lt;/td&gt;
+          &lt;td&gt;2019/03~2019/11&lt;/td&gt;
+          &lt;td&gt;研究助理 R.A.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;利用深度學習模型擷取PM2.5與慢性腎臟病間的關鍵因子 &lt;br&gt; &lt;em&gt;Using Deep Learning Models to Extract Key Features Between PM2.5 and Chronic Kidney Disease&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;台大醫院雲林分院 NTU Hospital&lt;/td&gt;
+          &lt;td&gt;2019/01~2019/12&lt;/td&gt;
+          &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+</content>
     </item>
+    
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>//localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/research/</guid>
-      <description>&lt;h2 id=&#34;-research-directions&#34;&gt;✨ Research Directions&lt;/h2&gt;&#xA;&lt;h4 id=&#34;1-customized-neural-network-design&#34;&gt;1. Customized Neural Network Design&lt;/h4&gt;&#xA;&lt;p&gt;Research in this area centers on the design and development of customized neural network architectures tailored to a wide range of domain-specific applications. The focus is on building models that are not only accurate and robust but also lightweight, interpretable, and efficient—enabling practical deployment in real-world, resource-constrained environments.&lt;br&gt;&#xA;&lt;font color=&#34;#96999A&#34;&gt;&lt;strong&gt;Suitable roles:&lt;/strong&gt; AI/ML Engineer, AI/ML Researcher&lt;/font&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;2-explainable-artificial-intelligence-xai&#34;&gt;2. Explainable Artificial Intelligence (XAI)&lt;/h4&gt;&#xA;&lt;p&gt;A major theme of our recent work involves the pursuit of explainable artificial intelligence (XAI), which aims to enhance the transparency of AI decision-making processes. By offering insights into why and how models make decisions, XAI facilitates the development of systems that are easier to adapt and optimize across different devices, scenarios, and data distributions, thereby improving both operational efficiency and generalization capabilities.&lt;br&gt;&#xA;&lt;font color=&#34;#96999A&#34;&gt;&lt;strong&gt;Suitable roles:&lt;/strong&gt; AI Researcher, Data Scientist, Model Optimization Engineer&lt;/font&gt;&lt;/p&gt;</description>
+      
+      <guid>//localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;-research-directions&#34;&gt;✨ Research Directions&lt;/h2&gt;
+&lt;h4 id=&#34;1-customized-neural-network-design&#34;&gt;1. Customized Neural Network Design&lt;/h4&gt;
+&lt;p&gt;Research in this area centers on the design and development of customized neural network architectures tailored to a wide range of domain-specific applications. The focus is on building models that are not only accurate and robust but also lightweight, interpretable, and efficient—enabling practical deployment in real-world, resource-constrained environments.&lt;br&gt;
+&lt;font color=&#34;#96999A&#34;&gt;&lt;strong&gt;Suitable roles:&lt;/strong&gt; AI/ML Engineer, AI/ML Researcher&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;2-explainable-artificial-intelligence-xai&#34;&gt;2. Explainable Artificial Intelligence (XAI)&lt;/h4&gt;
+&lt;p&gt;A major theme of our recent work involves the pursuit of explainable artificial intelligence (XAI), which aims to enhance the transparency of AI decision-making processes. By offering insights into why and how models make decisions, XAI facilitates the development of systems that are easier to adapt and optimize across different devices, scenarios, and data distributions, thereby improving both operational efficiency and generalization capabilities.&lt;br&gt;
+&lt;font color=&#34;#96999A&#34;&gt;&lt;strong&gt;Suitable roles:&lt;/strong&gt; AI Researcher, Data Scientist, Model Optimization Engineer&lt;/font&gt;&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;-research-directions&#34;&gt;✨ Research Directions&lt;/h2&gt;
+&lt;h4 id=&#34;1-customized-neural-network-design&#34;&gt;1. Customized Neural Network Design&lt;/h4&gt;
+&lt;p&gt;Research in this area centers on the design and development of customized neural network architectures tailored to a wide range of domain-specific applications. The focus is on building models that are not only accurate and robust but also lightweight, interpretable, and efficient—enabling practical deployment in real-world, resource-constrained environments.&lt;br&gt;
+&lt;font color=&#34;#96999A&#34;&gt;&lt;strong&gt;Suitable roles:&lt;/strong&gt; AI/ML Engineer, AI/ML Researcher&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;2-explainable-artificial-intelligence-xai&#34;&gt;2. Explainable Artificial Intelligence (XAI)&lt;/h4&gt;
+&lt;p&gt;A major theme of our recent work involves the pursuit of explainable artificial intelligence (XAI), which aims to enhance the transparency of AI decision-making processes. By offering insights into why and how models make decisions, XAI facilitates the development of systems that are easier to adapt and optimize across different devices, scenarios, and data distributions, thereby improving both operational efficiency and generalization capabilities.&lt;br&gt;
+&lt;font color=&#34;#96999A&#34;&gt;&lt;strong&gt;Suitable roles:&lt;/strong&gt; AI Researcher, Data Scientist, Model Optimization Engineer&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;3-databases-and-data-mining&#34;&gt;3. Databases and Data Mining&lt;/h4&gt;
+&lt;p&gt;This line of research focuses on the development of efficient algorithms and systems for managing and analyzing large-scale datasets. Key efforts include optimizing similarity search, query processing, and real-time data retrieval. In parallel, we leverage advanced data mining techniques to uncover meaningful patterns and actionable insights from complex, high-dimensional data.&lt;br&gt;
+&lt;font color=&#34;#96999A&#34;&gt;&lt;strong&gt;Suitable roles:&lt;/strong&gt; Algorithm Engineer, Data Scientist, Big Data Engineer&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;4-software-systems-development&#34;&gt;4. Software Systems Development&lt;/h4&gt;
+&lt;p&gt;We build robust software systems that integrate our models and algorithms to support practical applications across a variety of domains. These systems provide interactive tools and automated frameworks for monitoring, prediction, and decision support. Many of these systems are developed in collaboration with domain experts and industry partners, including National Taiwan University Hospital and Vision Wide Tech, to ensure real-world relevance and validated impact.
+&lt;font color=&#34;#96999A&#34;&gt;&lt;strong&gt;Suitable roles:&lt;/strong&gt; Software Engineer, System Integration Engineer, Full Stack Developer&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-application-domains&#34;&gt;🌐 Application Domains&lt;/h2&gt;
+&lt;p&gt;We apply our research across diverse domains, fostering interdisciplinary exploration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Smart Manufacturing and IoT&lt;/strong&gt;: Encompasses CNC machine data, production scheduling, and process optimization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spatio-temporal data&lt;/strong&gt;: Focuses on modeling and analyzing dynamic patterns across space and time, including traffic flow, human mobility, public transportation, and environmental trends.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Medical data&lt;/strong&gt;: Covers disease diagnosis modeling, clinical decision support, and related data analytics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other domains&lt;/strong&gt;: Students are encouraged to propose their areas of interest, with full support provided by the advisor.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
+    
     <item>
       <title>Services</title>
-      <link>/services/</link>
+      <link>//localhost:1313/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/services/</guid>
-      <description>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;&#xA;&lt;!-- ### Reviewer&#xA;- **[The Journal of Supercomputing](https://link.springer.com/journal/11227)**  &#xA;  *2025 \~ now* --&gt;&#xA;&lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2025 International Conference on Applied System Innovation (ICASI 2025)&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Oral A3&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;&#xA;Department of Computer Science and Information Engineering, Providence University / 靜宜大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      
+      <guid>//localhost:1313/services/</guid>
+      <description>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;
+&lt;!-- ### Reviewer
+- **[The Journal of Supercomputing](https://link.springer.com/journal/11227)**  
+  *2025 \~ now* --&gt;
+&lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025 International Conference on Applied System Innovation (ICASI 2025)&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Oral A3&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
+Department of Computer Science and Information Engineering, Providence University / 靜宜大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;
+&lt;!-- ### Reviewer
+- **[The Journal of Supercomputing](https://link.springer.com/journal/11227)**  
+  *2025 \~ now* --&gt;
+&lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025 International Conference on Applied System Innovation (ICASI 2025)&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Oral A3&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
+Department of Computer Science and Information Engineering, Providence University / 靜宜大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
+Department of Computer Science and Engineering, National Sun Yat-sen University / 國立中山大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
+Department of Mathematics, National Chung Cheng University / 國立中正大學 數學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Dec. 2024)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
+Department of Computer Science and Information Engineering, National Chung Cheng University / 國立中正大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sept. 2024)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;基於深度學習模型進行特徵選擇並降低運算成本之研究及申請和執行千里馬計畫經驗分享&lt;/strong&gt;&lt;br&gt;
+Department of Computer Science and Information Engineering, National Cheng Kung University / 國立成功大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(June 2023)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;thesis-committee&#34;&gt;Thesis Committee&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hao-Cheng Zhang, STA-NIM: A Non-Monetary Incentive Mechanism for Enhancing Task Assignment in Spatial Crowdsourcing, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;張皓程, STA-NIM: A Non-Monetary Incentive Mechanism for Enhancing Task Assignment in Spatial Crowdsourcing, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chieh-Yi Hsuan, A Reputation-Aware Double Auction Model for Task Allocation in Mobile Crowdsensing, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;宣傑譯, 移動群智感知任務分配中的聲譽感知雙向拍賣模型, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yu-Chia Lin, HML-PTA: A Hybrid Multi-Level Privacy-Preserving Task Assignment for Spatial Crowdsourcing, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;林育嘉, A Hybrid Multi-Level Privacy-Preserving Task Assignment for Spatial Crowdsourcing, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yu-Chiao Li, A Topic-enhanced GNN for Social Recommendation with Multi-source Feature Fusion, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;李羽喬, 結合主題語意與多源特徵的圖神經社交推薦系統, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - , 2025-07-29. &lt;br&gt;
+ 蔡季憲, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-29. &lt;br&gt;
+ Advisor: Yi-Chung Chen 陳奕中 博士
+
+- , 2025-07-29. &lt;br&gt;
+ 王昱婷, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-29. &lt;br&gt;
+ Advisor: Yi-Chung Chen 陳奕中 博士
+
+- , 2025-07-29. &lt;br&gt;
+ 楊竣傑, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-29. &lt;br&gt;
+ Advisor: Yi-Chung Chen 陳奕中 博士
+
+- , 2025-07-28. &lt;br&gt;
+ 蘇映禎, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-28. &lt;br&gt;
+ Advisor: Yi-Chung Chen 陳奕中 博士
+
+- , 2025-07-28. &lt;br&gt;
+ 林羿汶, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-28. &lt;br&gt;
+ Advisor: Yi-Chung Chen 陳奕中 博士
+
+- , 2025-07-07. &lt;br&gt;
+ 林子雁, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-07. &lt;br&gt;
+ Advisor: Yi-Chung Chen 陳奕中 博士
+
+- , 2025-07-07. &lt;br&gt;
+ 洪意雯, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-07. &lt;br&gt;
+ Advisor: Yi-Chung Chen 陳奕中 博士 --&gt;
+&lt;ul&gt;
+&lt;li&gt;Hsien-Hung Chiu, Price Prediction of NBA Player Cards Using Sentiment Analysis and Fuzzy Neural Networks , M.S. thesis, Graduate School of Intelligent Data Science, National Yunlin University of Science and Technology, 2025-06-18. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;邱顯閎, 應用情緒分析與模糊類神經網路於NBA球員卡價之預測, 碩士論文, 國立雲林科技大學智慧數據科學研究所, 2025-06-18.&lt;/em&gt;&lt;/span&gt;
+Advisors: Ya-Hsin Hsueh 薛雅馨 博士, and Yi-Chung Chen 陳奕中 博士&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
