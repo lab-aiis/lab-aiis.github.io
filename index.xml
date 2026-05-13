@@ -10,27 +10,32 @@
     <item>
       <title>Publications</title>
       <link>/publications/</link>
-      <pubDate>Tue, 10 Jun 2025 23:34:03 +0800</pubDate>
+      <pubDate>Wed, 13 May 2026 13:20:26 +0800</pubDate>
       
       <guid>/publications/</guid>
       <description>&lt;h4 id=&#34;international-journal&#34;&gt;International Journal&lt;/h4&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Transfer Framework for Urban Spatio-Temporal Knowledge Based on Radial Basis Function,” &lt;em&gt;IEEE Transactions on Artificial Intelligence&lt;/em&gt;, vol. 5, no. 9, pp. 4458-4469, 2024.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Cheng-Ju Kuo, Li-Chun Hung, Min-Hsiung Hung, Chao-Chun Chen, and Chiang Lee, “Development of Lightweight RBF-DRNN and Automated Framework for CNC Tool-Wear Prediction,” &lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt;, Vol. 71, Article 2506711, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q1, IF:5.6)&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, and Tzu-Yin Chang, “Identifying Key Grid Cells for Crowd Flow Predictions Based on CNN-based Models with the Grad-CAM Kit,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “Estate Price Prediction System Based on Temporal and Spatial Features and Lightweight Deep Learning Model,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;Yi-Chung Chen, Hsi-Ho Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Chiang Lee, “Joint Promotion Partner Recommendation Systems Using Data from Location-Based Social Networks,” &lt;em&gt;ISPRS International Journal of Geo-Information&lt;/em&gt;, vol. 10, no. 1, Article 57, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:2.8)&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;Hua-Hong Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “Group Trip Recommendation Systems,” &lt;em&gt;Advances in Information and Communication Networks&lt;/em&gt;, vol. 886, pp. 391-412, 2019-1. (EI)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhi-Gang Wen, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3812803&#34;&gt;CRBF-Net: Convolutional RBF Network for Key Grid Cells Selection in Spatial-Temporal Flow Prediction&lt;/a&gt;,” &lt;em&gt;ACM Transactions on Spatial Algorithms and Systems&lt;/em&gt;, 2026.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10481516&#34;&gt;“Universal Transfer Framework for Urban Spatio-Temporal Knowledge Based on Radial Basis Function&lt;/a&gt;,” &lt;em&gt;IEEE Transactions on Artificial Intelligence&lt;/em&gt;, vol. 5, no. 9, pp. 4458-4469, 2024.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Cheng-Ju Kuo, Li-Chun Hung, Min-Hsiung Hung, Chao-Chun Chen, and Chiang Lee, &lt;a href=&#34;https://ieeexplore.ieee.org/document/9748893&#34;&gt;“Development of Lightweight RBF-DRNN and Automated Framework for CNC Tool-Wear Prediction&lt;/a&gt;,” &lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt;, Vol. 71, Article 2506711, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q1, IF:5.6)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, and Tzu-Yin Chang, “&lt;a href=&#34;https://link.springer.com/article/10.1007/s10489-022-03988-1&#34;&gt;Identifying Key Grid Cells for Crowd Flow Predictions Based on CNN-based Models with the Grad-CAM Kit&lt;/a&gt;,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “&lt;a href=&#34;https://link.springer.com/article/10.1007/s10489-021-02472-6&#34;&gt;Estate Price Prediction System Based on Temporal and Spatial Features and Lightweight Deep Learning Model&lt;/a&gt;,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;Yi-Chung Chen, Hsi-Ho Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Chiang Lee, “&lt;a href=&#34;https://www.mdpi.com/2220-9964/10/2/57&#34;&gt;Joint Promotion Partner Recommendation Systems Using Data from Location-Based Social Networks&lt;/a&gt;,” &lt;em&gt;ISPRS International Journal of Geo-Information&lt;/em&gt;, vol. 10, no. 1, Article 57, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:2.8)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;Hua-Hong Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-03402-3_27&#34;&gt;Group Trip Recommendation Systems&lt;/a&gt;,” &lt;em&gt;Advances in Information and Communication Networks&lt;/em&gt;, vol. 886, pp. 391-412, 2019-1. (EI)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;unpublished&#34;&gt;Unpublished&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Knowledge Transfer for Spatio-temporal Flow Prediction Based on Radial Basis Function Transfer Blocks,” &lt;em&gt;IEEE Transactions on Intelligent Transportation Systems&lt;/em&gt;, under review, 2025.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhi-Gang Wen, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “CRBF-Net: Convolutional RBF Network for Key Grid Cells Selection in Spatial-Temporal Flow Prediction,” &lt;em&gt;ACM Transactions on Spatial Algorithms and Systems&lt;/em&gt;, under review, 2025.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
+&lt;!-- 
+#### Unpublished
+1. **Sheng-Min Chiu**, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Knowledge Transfer for Spatio-temporal Flow Prediction Based on Radial Basis Function Transfer Blocks,” *IEEE Transactions on Intelligent Transportation Systems*, under review, 2025.
+1. **Sheng-Min Chiu**, Zhi-Gang Wen, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “CRBF-Net: Convolutional RBF Network for Key Grid Cells Selection in Spatial-Temporal Flow Prediction,” *ACM Transactions on Spatial Algorithms and Systems*, under review, 2025.
+--- 
+--&gt;
 &lt;h4 id=&#34;international-conference&#34;&gt;International Conference&lt;/h4&gt;
 &lt;ol&gt;
+&lt;li&gt;Hung-Wei Wang, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “LoRA-Enhanced Vocabulary Adaptation for Efficient Medical Summarization,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2026 (ICASI 2026)&lt;/em&gt;, 2026-04, Kyoto, Japan.&lt;/li&gt;
+&lt;li&gt;Lin Chou, Ruei-Hong Lee, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “RAG-NAS: Retrieval-Augmented Generation Based Efficient Knowledge-Guided Neural Architecture Search,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2026 (ICASI 2026)&lt;/em&gt;, 2026-04, Kyoto, Japan.&lt;/li&gt;
+&lt;li&gt;Tu-Yu Chen, Yi-Hung Chen, Pin-Yen Lu, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “An Intelligent Decision Support System for Material Planning and Production Process Optimization in Smart Factories,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2026 (ICASI 2026)&lt;/em&gt;, 2026-04, Kyoto, Japan.&lt;/li&gt;
+&lt;li&gt;An-Syu Li, Wei-Ting Lai, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Yi-Chung Chen, “GeoChronos-GPT: Spatiotemporal Transformer Framework for Personalized Point-of-Interest Recommendation,” &lt;em&gt;In Proceedings of the 8th Artificial Intelligence and Cloud Computing Conference (AICCC 2025)&lt;/em&gt;, 2025-12, Tokyo, Japan.&lt;/li&gt;
 &lt;li&gt;Chang-Hung Shih, Yang-Chou Juan, Liang-Jiun Wang, Yi-Chung Chen, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “Crowd Flow Prediction Model Using AutoEncoder and Deep Neural Network: Applications in Dynamic Urban Settings,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2025 (ICASI 2025)&lt;/em&gt;, 2025-04, Tokyo, Japan.&lt;/li&gt;
 &lt;li&gt;Ting-Hsuan Chang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen and Chiang Lee, “Using spatial, temporal, and external factors to enhance prediction of shared-transport users,” &lt;em&gt;Multidisciplinary International Social Networks Conference (MISNC)&lt;/em&gt;, 2022-10, Matsuyama, Japan.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Yow-Shin Liou, Chiang Lee, Jia-Ching Ying, Chee-Hoe Loh and Jou-Wei Lin, “A Fast, Interactive, Location-based Food Recommendation Application,” &lt;em&gt;Multidisciplinary International Social Networks Conference (MISNC)&lt;/em&gt;, 2021-11, Bergen, Norway and Kaohsiung, Taiwan.&lt;/li&gt;
@@ -46,6 +51,8 @@
 &lt;hr&gt;
 &lt;h4 id=&#34;domestic-conference&#34;&gt;Domestic Conference&lt;/h4&gt;
 &lt;ol&gt;
+&lt;li&gt;王弘瑋, &lt;strong&gt;邱勝敏&lt;/strong&gt;, &amp;ldquo;低秩適應(LoRA)與醫療詞彙擴展結合之高效模型微調,&amp;rdquo; &lt;em&gt;第27屆永續發展管理研討會&lt;/em&gt;, 2026-05. Pingtung, Taiwan.&lt;/li&gt;
+&lt;li&gt;陳圖億, 陳義竑, 盧品言, &lt;strong&gt;邱勝敏&lt;/strong&gt;, &amp;ldquo;智慧工廠物料規劃與生產瓶頸優化之輔助智慧決策系統,&amp;rdquo; &lt;em&gt;第27屆永續發展管理研討會&lt;/em&gt;, 2026-05. Pingtung, Taiwan.&lt;/li&gt;
 &lt;li&gt;劉佑炘, &lt;strong&gt;邱勝敏&lt;/strong&gt;, 李香蘭, 陳奕中, 李強, 尚榮康, 張子瑩, “利用CNN-LSTM及Grad-CAM擷取臺北市人流移動趨勢特徵值並建立輕量化模型預測人流量,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2021, Taiwan. &lt;font color=&#34;#96999A&#34;&gt;(Best Student Paper Award)&lt;/font&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳奕中, 陳朝鈞, 李強, 洪莉珺,“基於模糊深度學習模型萃取深度特徵進而提升刀具壽命預測的準確性,” &lt;em&gt;Chinese Institute of Industrial Engineers Annual Conference, 2020 (CIIE2020)&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 郭巧玲, 范毅軍, 李強 “利用相似度投票法於歷史地圖圖徵萃取-以日治時期台灣堡圖為例,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2020, Taiwan.&lt;/li&gt;
@@ -59,22 +66,27 @@
 &lt;hr&gt;</description>
       <content>&lt;h4 id=&#34;international-journal&#34;&gt;International Journal&lt;/h4&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Transfer Framework for Urban Spatio-Temporal Knowledge Based on Radial Basis Function,” &lt;em&gt;IEEE Transactions on Artificial Intelligence&lt;/em&gt;, vol. 5, no. 9, pp. 4458-4469, 2024.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Cheng-Ju Kuo, Li-Chun Hung, Min-Hsiung Hung, Chao-Chun Chen, and Chiang Lee, “Development of Lightweight RBF-DRNN and Automated Framework for CNC Tool-Wear Prediction,” &lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt;, Vol. 71, Article 2506711, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q1, IF:5.6)&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, and Tzu-Yin Chang, “Identifying Key Grid Cells for Crowd Flow Predictions Based on CNN-based Models with the Grad-CAM Kit,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “Estate Price Prediction System Based on Temporal and Spatial Features and Lightweight Deep Learning Model,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;Yi-Chung Chen, Hsi-Ho Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Chiang Lee, “Joint Promotion Partner Recommendation Systems Using Data from Location-Based Social Networks,” &lt;em&gt;ISPRS International Journal of Geo-Information&lt;/em&gt;, vol. 10, no. 1, Article 57, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:2.8)&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;Hua-Hong Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “Group Trip Recommendation Systems,” &lt;em&gt;Advances in Information and Communication Networks&lt;/em&gt;, vol. 886, pp. 391-412, 2019-1. (EI)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhi-Gang Wen, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3812803&#34;&gt;CRBF-Net: Convolutional RBF Network for Key Grid Cells Selection in Spatial-Temporal Flow Prediction&lt;/a&gt;,” &lt;em&gt;ACM Transactions on Spatial Algorithms and Systems&lt;/em&gt;, 2026.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10481516&#34;&gt;“Universal Transfer Framework for Urban Spatio-Temporal Knowledge Based on Radial Basis Function&lt;/a&gt;,” &lt;em&gt;IEEE Transactions on Artificial Intelligence&lt;/em&gt;, vol. 5, no. 9, pp. 4458-4469, 2024.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Cheng-Ju Kuo, Li-Chun Hung, Min-Hsiung Hung, Chao-Chun Chen, and Chiang Lee, &lt;a href=&#34;https://ieeexplore.ieee.org/document/9748893&#34;&gt;“Development of Lightweight RBF-DRNN and Automated Framework for CNC Tool-Wear Prediction&lt;/a&gt;,” &lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt;, Vol. 71, Article 2506711, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q1, IF:5.6)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, and Tzu-Yin Chang, “&lt;a href=&#34;https://link.springer.com/article/10.1007/s10489-022-03988-1&#34;&gt;Identifying Key Grid Cells for Crowd Flow Predictions Based on CNN-based Models with the Grad-CAM Kit&lt;/a&gt;,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2022. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “&lt;a href=&#34;https://link.springer.com/article/10.1007/s10489-021-02472-6&#34;&gt;Estate Price Prediction System Based on Temporal and Spatial Features and Lightweight Deep Learning Model&lt;/a&gt;,” &lt;em&gt;Applied Intelligence&lt;/em&gt;, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:3.4)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;Yi-Chung Chen, Hsi-Ho Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Chiang Lee, “&lt;a href=&#34;https://www.mdpi.com/2220-9964/10/2/57&#34;&gt;Joint Promotion Partner Recommendation Systems Using Data from Location-Based Social Networks&lt;/a&gt;,” &lt;em&gt;ISPRS International Journal of Geo-Information&lt;/em&gt;, vol. 10, no. 1, Article 57, 2021. &lt;font color=&#34;#96999A&#34;&gt;(SCIE 2023Q2, IF:2.8)&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;Hua-Hong Huang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, and Chiang Lee, “&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-03402-3_27&#34;&gt;Group Trip Recommendation Systems&lt;/a&gt;,” &lt;em&gt;Advances in Information and Communication Networks&lt;/em&gt;, vol. 886, pp. 391-412, 2019-1. (EI)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;unpublished&#34;&gt;Unpublished&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Knowledge Transfer for Spatio-temporal Flow Prediction Based on Radial Basis Function Transfer Blocks,” &lt;em&gt;IEEE Transactions on Intelligent Transportation Systems&lt;/em&gt;, under review, 2025.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhi-Gang Wen, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “CRBF-Net: Convolutional RBF Network for Key Grid Cells Selection in Spatial-Temporal Flow Prediction,” &lt;em&gt;ACM Transactions on Spatial Algorithms and Systems&lt;/em&gt;, under review, 2025.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
+&lt;!-- 
+#### Unpublished
+1. **Sheng-Min Chiu**, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Knowledge Transfer for Spatio-temporal Flow Prediction Based on Radial Basis Function Transfer Blocks,” *IEEE Transactions on Intelligent Transportation Systems*, under review, 2025.
+1. **Sheng-Min Chiu**, Zhi-Gang Wen, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “CRBF-Net: Convolutional RBF Network for Key Grid Cells Selection in Spatial-Temporal Flow Prediction,” *ACM Transactions on Spatial Algorithms and Systems*, under review, 2025.
+--- 
+--&gt;
 &lt;h4 id=&#34;international-conference&#34;&gt;International Conference&lt;/h4&gt;
 &lt;ol&gt;
+&lt;li&gt;Hung-Wei Wang, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “LoRA-Enhanced Vocabulary Adaptation for Efficient Medical Summarization,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2026 (ICASI 2026)&lt;/em&gt;, 2026-04, Kyoto, Japan.&lt;/li&gt;
+&lt;li&gt;Lin Chou, Ruei-Hong Lee, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “RAG-NAS: Retrieval-Augmented Generation Based Efficient Knowledge-Guided Neural Architecture Search,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2026 (ICASI 2026)&lt;/em&gt;, 2026-04, Kyoto, Japan.&lt;/li&gt;
+&lt;li&gt;Tu-Yu Chen, Yi-Hung Chen, Pin-Yen Lu, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “An Intelligent Decision Support System for Material Planning and Production Process Optimization in Smart Factories,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2026 (ICASI 2026)&lt;/em&gt;, 2026-04, Kyoto, Japan.&lt;/li&gt;
+&lt;li&gt;An-Syu Li, Wei-Ting Lai, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, and Yi-Chung Chen, “GeoChronos-GPT: Spatiotemporal Transformer Framework for Personalized Point-of-Interest Recommendation,” &lt;em&gt;In Proceedings of the 8th Artificial Intelligence and Cloud Computing Conference (AICCC 2025)&lt;/em&gt;, 2025-12, Tokyo, Japan.&lt;/li&gt;
 &lt;li&gt;Chang-Hung Shih, Yang-Chou Juan, Liang-Jiun Wang, Yi-Chung Chen, and &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, “Crowd Flow Prediction Model Using AutoEncoder and Deep Neural Network: Applications in Dynamic Urban Settings,” &lt;em&gt;IEEE International Conference on Applied System Innovation 2025 (ICASI 2025)&lt;/em&gt;, 2025-04, Tokyo, Japan.&lt;/li&gt;
 &lt;li&gt;Ting-Hsuan Chang, &lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen and Chiang Lee, “Using spatial, temporal, and external factors to enhance prediction of shared-transport users,” &lt;em&gt;Multidisciplinary International Social Networks Conference (MISNC)&lt;/em&gt;, 2022-10, Matsuyama, Japan.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yi-Chung Chen, Yow-Shin Liou, Chiang Lee, Jia-Ching Ying, Chee-Hoe Loh and Jou-Wei Lin, “A Fast, Interactive, Location-based Food Recommendation Application,” &lt;em&gt;Multidisciplinary International Social Networks Conference (MISNC)&lt;/em&gt;, 2021-11, Bergen, Norway and Kaohsiung, Taiwan.&lt;/li&gt;
@@ -90,6 +102,8 @@
 &lt;hr&gt;
 &lt;h4 id=&#34;domestic-conference&#34;&gt;Domestic Conference&lt;/h4&gt;
 &lt;ol&gt;
+&lt;li&gt;王弘瑋, &lt;strong&gt;邱勝敏&lt;/strong&gt;, &amp;ldquo;低秩適應(LoRA)與醫療詞彙擴展結合之高效模型微調,&amp;rdquo; &lt;em&gt;第27屆永續發展管理研討會&lt;/em&gt;, 2026-05. Pingtung, Taiwan.&lt;/li&gt;
+&lt;li&gt;陳圖億, 陳義竑, 盧品言, &lt;strong&gt;邱勝敏&lt;/strong&gt;, &amp;ldquo;智慧工廠物料規劃與生產瓶頸優化之輔助智慧決策系統,&amp;rdquo; &lt;em&gt;第27屆永續發展管理研討會&lt;/em&gt;, 2026-05. Pingtung, Taiwan.&lt;/li&gt;
 &lt;li&gt;劉佑炘, &lt;strong&gt;邱勝敏&lt;/strong&gt;, 李香蘭, 陳奕中, 李強, 尚榮康, 張子瑩, “利用CNN-LSTM及Grad-CAM擷取臺北市人流移動趨勢特徵值並建立輕量化模型預測人流量,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2021, Taiwan. &lt;font color=&#34;#96999A&#34;&gt;(Best Student Paper Award)&lt;/font&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 陳奕中, 陳朝鈞, 李強, 洪莉珺,“基於模糊深度學習模型萃取深度特徵進而提升刀具壽命預測的準確性,” &lt;em&gt;Chinese Institute of Industrial Engineers Annual Conference, 2020 (CIIE2020)&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;邱勝敏&lt;/strong&gt;, 郭巧玲, 范毅軍, 李強 “利用相似度投票法於歷史地圖圖徵萃取-以日治時期台灣堡圖為例,” &lt;em&gt;TGIS (The Taiwan Geographic Information Society Annual Meeting &amp;amp; Academic Conference)&lt;/em&gt;, 2020, Taiwan.&lt;/li&gt;
@@ -100,6 +114,199 @@
 &lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt; and Yi-Chung Chen, “A Novel Algorithm for Finding Similar Friends in Social Networks,” &lt;em&gt;National Symposium on System Science and Engineering&lt;/em&gt;, 2015-07. Taipei, Taiwan.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Zhong-Ying Xie, Pei-Bei Chen,Hung-Yu Wei, and Yi-Chung Chen, “Using the Concepts of Skyline Queries and Neural Networks to Accelerate the Processes of Finding Similar Users in Social Networks,” &lt;em&gt;National Conference on Web Intelligence and Applications&lt;/em&gt;, 2015-06. Yilan, Taiwan.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;hr&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/services/</link>
+      <pubDate>Wed, 13 May 2026 13:20:26 +0800</pubDate>
+      
+      <guid>/services/</guid>
+      <description>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;
+&lt;h3 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/journal/41060&#34;&gt;&lt;em&gt;International Journal of Data Science and Analytics&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;2026 ~ now&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/journal/11227&#34;&gt;&lt;em&gt;The Journal of Supercomputing&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;2026 ~ now&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/journal/11227&#34;&gt;&lt;em&gt;Journal of King Saud University Computer and Information Sciences&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;2026 ~ now&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026 8th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2026&lt;/a&gt;)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026 9th Artificial Intelligence and Cloud Computing Conference (&lt;a href=&#34;https://www.aiccc.net/&#34;&gt;AICCC 2026&lt;/a&gt;)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025 8th Artificial Intelligence and Cloud Computing Conference (&lt;a href=&#34;https://www.aiccc.net/&#34;&gt;AICCC 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026 International Conference on Applied System Innovation (ICASI 2026)&lt;/strong&gt; - &lt;em&gt;Oral C5&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025 International Conference on Applied System Innovation (ICASI 2025)&lt;/strong&gt; - &lt;em&gt;Oral A3&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
+Department of Electronic Engineering, National United University / 國立聯合大學 電子工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(April 2026)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;
+&lt;h3 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/journal/41060&#34;&gt;&lt;em&gt;International Journal of Data Science and Analytics&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;2026 ~ now&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/journal/11227&#34;&gt;&lt;em&gt;The Journal of Supercomputing&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;2026 ~ now&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/journal/11227&#34;&gt;&lt;em&gt;Journal of King Saud University Computer and Information Sciences&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;2026 ~ now&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026 8th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2026&lt;/a&gt;)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026 9th Artificial Intelligence and Cloud Computing Conference (&lt;a href=&#34;https://www.aiccc.net/&#34;&gt;AICCC 2026&lt;/a&gt;)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025 8th Artificial Intelligence and Cloud Computing Conference (&lt;a href=&#34;https://www.aiccc.net/&#34;&gt;AICCC 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026 International Conference on Applied System Innovation (ICASI 2026)&lt;/strong&gt; - &lt;em&gt;Oral C5&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025 International Conference on Applied System Innovation (ICASI 2025)&lt;/strong&gt; - &lt;em&gt;Oral A3&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
+Department of Electronic Engineering, National United University / 國立聯合大學 電子工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(April 2026)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
+Department of Computer Science and Information Engineering, Providence University / 靜宜大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
+Department of Computer Science and Engineering, National Sun Yat-sen University / 國立中山大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
+Department of Mathematics, National Chung Cheng University / 國立中正大學 數學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Dec. 2024)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
+Department of Computer Science and Information Engineering, National Chung Cheng University / 國立中正大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sept. 2024)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;基於深度學習模型進行特徵選擇並降低運算成本之研究及申請和執行千里馬計畫經驗分享&lt;/strong&gt;&lt;br&gt;
+Department of Computer Science and Information Engineering, National Cheng Kung University / 國立成功大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(June 2023)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;thesis-committee&#34;&gt;Thesis Committee&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hao-Cheng Zhang, STA-NIM: A Non-Monetary Incentive Mechanism for Enhancing Task Assignment in Spatial Crowdsourcing, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;張皓程, STA-NIM: A Non-Monetary Incentive Mechanism for Enhancing Task Assignment in Spatial Crowdsourcing, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chieh-Yi Hsuan, A Reputation-Aware Double Auction Model for Task Allocation in Mobile Crowdsensing, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;宣傑譯, 移動群智感知任務分配中的聲譽感知雙向拍賣模型, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yu-Chia Lin, HML-PTA: A Hybrid Multi-Level Privacy-Preserving Task Assignment for Spatial Crowdsourcing, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;林育嘉, A Hybrid Multi-Level Privacy-Preserving Task Assignment for Spatial Crowdsourcing, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yu-Chiao Li, A Topic-enhanced GNN for Social Recommendation with Multi-source Feature Fusion, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;李羽喬, 結合主題語意與多源特徵的圖神經社交推薦系統, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ji-Xian Tsai, A Hybrid Framework Integrating Diffusion Models and Decision Trees for Efficient Generation of Large-Scale Human Mobility Patterns, M.S. thesis, Department of Computer Science and Engineering, National Chung Hsing University, 2025-07-29. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;蔡季憲, 結合擴散模型與決策樹以高效率生成未來任意時刻大範圍人群分布, 碩士論文, 國立中興大學資訊工程學系所, 2025-07-29.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yi-Chung Chen 陳奕中 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yu-Ting Wang, Using LLM to Analyze the Rainfall Model’s Parameters and Create a Recommendation System for Tourist Rain Preparedness, M.S. thesis, Department of Computer Science and Engineering, National Chung Hsing University, 2025-07-29. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;王昱婷, 利用大語言模型解讀雨量模型之參數並以此實現旅遊雨備推薦系統, 碩士論文, 國立中興大學資訊工程學系所, 2025-07-29.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yi-Chung Chen 陳奕中 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chun-Chieh Yang, A CGAN and LLM-Integrated System for Road Marking Generation and Semantic Analysis, M.S. thesis, Department of Computer Science and Engineering, National Chung Hsing University, 2025-07-29. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;楊竣傑, 結合CGAN與LLM的道路標線生成與語意解析系統, 碩士論文, 國立中興大學資訊工程學系所, 2025-07-29.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yi-Chung Chen 陳奕中 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ying-Jhen Su, Utilizing an Innovative Fuzzy Neural Network and Its Corresponding Algorithm to Forecast YouBike Usage Intention, M.S. thesis, Department of Computer Science and Engineering, National Chung Hsing University, 2025-07-28. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;蘇映禎, 使用新型態模糊類神經網路與其相對應演算法來進行YouBike使用意願預測, 碩士論文, 國立中興大學資訊工程學系所, 2025-07-28.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yi-Chung Chen 陳奕中 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yi-Wun Lin, Use Generative AI To Forecast Pedestrian Flow At MRT Stations and Advise Retail Outlets On Procurement Amounts, M.S. thesis, Department of Computer Science and Engineering, National Chung Hsing University, 2025-07-28. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;林羿汶, 利用生成式人工智慧模型進行捷運站未來任一時刻人流量預測與其附屬商店之商品進貨量推薦, 碩士論文, 國立中興大學資訊工程學系所, 2025-07-28.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yi-Chung Chen 陳奕中 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Zi-Yan Lin, A Personalized Driving Recommendation System for Sun Yat-sen Freeway Using Conditional GAN, GPT, and RAG, M.S. thesis, Department of Computer Science and Engineering, National Chung Hsing University, 2025-07-07. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;林子雁, 基於條件式GAN、GPT和RAG之中山高速公路客製化行車建議推薦系統, 碩士論文, 國立中興大學資訊工程學系所, 2025-07-07.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yi-Chung Chen 陳奕中 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yi-Wen Hung, Using Yolov11 and RAG to Develop a Safe Route Recommendation System, M.S. thesis, Department of Computer Science and Engineering, National Chung Hsing University, 2025-07-07. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;洪意雯, 融合Yolov11與RAG之道路安全路徑推薦系統, 碩士論文, 國立中興大學資訊工程學系所, 2025-07-07.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
+Advisor: Yi-Chung Chen 陳奕中 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hsien-Hung Chiu, Price Prediction of NBA Player Cards Using Sentiment Analysis and Fuzzy Neural Networks , M.S. thesis, Graduate School of Intelligent Data Science, National Yunlin University of Science and Technology, 2025-06-18. &lt;br&gt;
+&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;邱顯閎, 應用情緒分析與模糊類神經網路於NBA球員卡價之預測, 碩士論文, 國立雲林科技大學智慧數據科學研究所, 2025-06-18.&lt;/em&gt;&lt;/span&gt;
+Advisors: Ya-Hsin Hsueh 薛雅馨 博士, and Yi-Chung Chen 陳奕中 博士&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>/gallery/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/</guid>
+      <description>&lt;h1 id=&#34;-lab-activities&#34;&gt;📸 Lab Activities&lt;/h1&gt;
+&lt;p&gt;Here we share some of the memorable moments of our lab members attending conferences, lab gatherings, and other activities.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ieee-icasi-2026-in-kyoto-japan&#34;&gt;IEEE ICASI 2026 in Kyoto, Japan&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;April 2026&lt;/em&gt; Our lab members presented their latest research on Medical LLM, RAG-NAS, and Smart Factory Optimization at the International Conference on Applied System Innovation.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/img/DSCF1431.jpg&#34;  alt=&#34;AIIS Lab at ICASI 2026&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Group photo at ICASI 2026, Kyoto.&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;hr&gt;</description>
+      <content>&lt;h1 id=&#34;-lab-activities&#34;&gt;📸 Lab Activities&lt;/h1&gt;
+&lt;p&gt;Here we share some of the memorable moments of our lab members attending conferences, lab gatherings, and other activities.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ieee-icasi-2026-in-kyoto-japan&#34;&gt;IEEE ICASI 2026 in Kyoto, Japan&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;April 2026&lt;/em&gt; Our lab members presented their latest research on Medical LLM, RAG-NAS, and Smart Factory Optimization at the International Conference on Applied System Innovation.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/img/DSCF1431.jpg&#34;  alt=&#34;AIIS Lab at ICASI 2026&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Group photo at ICASI 2026, Kyoto.&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
 &lt;hr&gt;
 </content>
     </item>
@@ -236,33 +443,130 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/courses/</guid>
-      <description>&lt;h1 id=&#34;2025-fall-114-1&#34;&gt;2025 Fall (114-1)&lt;/h1&gt;
+      <description>&lt;h3 id=&#34;2026-spring-114-2&#34;&gt;2026 Spring (114-2)&lt;/h3&gt;
+&lt;h4 id=&#34;graduate-研究所&#34;&gt;Graduate 研究所&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Processing and Modeling 資料處理與建模&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4 id=&#34;undergraduate-大學部&#34;&gt;undergraduate 大學部&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Computer Network 電腦網路&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Computer Network 電腦網路&lt;br&gt;&lt;font color=&#34;#96999A&#34;&gt;&lt;em&gt;English as a Medium of Instruction(EMI)&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2025-fall-114-1&#34;&gt;2025 Fall (114-1)&lt;/h1&gt;
+&lt;h4 id=&#34;undergraduate-大學部-1&#34;&gt;undergraduate 大學部&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Introduction to Machine Learning 機器學習導論&lt;br&gt;&lt;font color=&#34;#96999A&#34;&gt;&lt;em&gt;English as a Medium of Instruction(EMI)&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;2025-spring-113-2&#34;&gt;2025 spring (113-2)&lt;/h1&gt;
-&lt;h4 id=&#34;undergraduate-大學部-1&#34;&gt;undergraduate 大學部&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Linear algebra 線性代數&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;graduate-研究所&#34;&gt;graduate 研究所&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2025-spring-113-2&#34;&gt;2025 Spring (113-2)&lt;/h3&gt;
+&lt;h4 id=&#34;graduate-研究所-1&#34;&gt;Graduate 研究所&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Artificial intelligence 人工智慧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;undergraduate-大學部-2&#34;&gt;undergraduate 大學部&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Linear algebra 線性代數&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <content>&lt;h1 id=&#34;2025-fall-114-1&#34;&gt;2025 Fall (114-1)&lt;/h1&gt;
+      <content>&lt;h3 id=&#34;2026-spring-114-2&#34;&gt;2026 Spring (114-2)&lt;/h3&gt;
+&lt;h4 id=&#34;graduate-研究所&#34;&gt;Graduate 研究所&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Processing and Modeling 資料處理與建模&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4 id=&#34;undergraduate-大學部&#34;&gt;undergraduate 大學部&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Computer Network 電腦網路&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Computer Network 電腦網路&lt;br&gt;&lt;font color=&#34;#96999A&#34;&gt;&lt;em&gt;English as a Medium of Instruction(EMI)&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2025-fall-114-1&#34;&gt;2025 Fall (114-1)&lt;/h1&gt;
+&lt;h4 id=&#34;undergraduate-大學部-1&#34;&gt;undergraduate 大學部&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Introduction to Machine Learning 機器學習導論&lt;br&gt;&lt;font color=&#34;#96999A&#34;&gt;&lt;em&gt;English as a Medium of Instruction(EMI)&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;2025-spring-113-2&#34;&gt;2025 spring (113-2)&lt;/h1&gt;
-&lt;h4 id=&#34;undergraduate-大學部-1&#34;&gt;undergraduate 大學部&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2025-spring-113-2&#34;&gt;2025 Spring (113-2)&lt;/h3&gt;
+&lt;h4 id=&#34;graduate-研究所-1&#34;&gt;Graduate 研究所&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial intelligence 人工智慧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;undergraduate-大學部-2&#34;&gt;undergraduate 大學部&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Linear algebra 線性代數&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;graduate-研究所&#34;&gt;graduate 研究所&lt;/h4&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Director</title>
+      <link>/pi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pi/</guid>
+      <description>&lt;h3 id=&#34;邱勝敏-助理教授asst-prof-sheng-min-sam-chiu&#34;&gt;邱勝敏 助理教授&lt;font&gt;&lt;br&gt;Asst. Prof. Sheng-Min Sam Chiu&lt;/font&gt;&lt;/h3&gt;
+
+  &lt;figure class=&#34;left&#34; &gt;
+    &lt;img src=&#34;/img/545048988.jpg&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;width: 30%&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h2 id=&#34;-biography&#34;&gt;📖 Biography&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Sheng-Min (Sam) Chiu&lt;/strong&gt; received his B.S. degree in Information Engineering and Computer Science from Feng Chia University in 2017, and his M.S. and Ph.D. degrees in Computer Science and Information Engineering from National Cheng Kung University in 2019 and 2023, respectively. From May 2022 to April 2023, he was a visiting scholar at the School of Computing, National University of Singapore.&lt;/p&gt;</description>
+      <content>&lt;h3 id=&#34;邱勝敏-助理教授asst-prof-sheng-min-sam-chiu&#34;&gt;邱勝敏 助理教授&lt;font&gt;&lt;br&gt;Asst. Prof. Sheng-Min Sam Chiu&lt;/font&gt;&lt;/h3&gt;
+
+  &lt;figure class=&#34;left&#34; &gt;
+    &lt;img src=&#34;/img/545048988.jpg&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;width: 30%&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h2 id=&#34;-biography&#34;&gt;📖 Biography&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Sheng-Min (Sam) Chiu&lt;/strong&gt; received his B.S. degree in Information Engineering and Computer Science from Feng Chia University in 2017, and his M.S. and Ph.D. degrees in Computer Science and Information Engineering from National Cheng Kung University in 2019 and 2023, respectively. From May 2022 to April 2023, he was a visiting scholar at the School of Computing, National University of Singapore.&lt;/p&gt;
+&lt;p&gt;He is currently an Assistant Professor in the Department of Computer Science and Engineering at National Sun Yat-sen University. His recent research interests include AI/ML, feature Selection, smart manufacturing, and spatio-temporal databases.&lt;/p&gt;
+&lt;h2 id=&#34;-experience&#34;&gt;💼 Experience&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Artificial intelligence 人工智慧&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Assistant Professor 助理教授 &lt;font color=&#34;#96999A&#34;&gt;2025 - present&lt;/font&gt;
+&lt;font&gt;&lt;br&gt;Dept. of Computer Science and Engineering, National Sun Yat-sen University 國立中山大學 資訊工程學系&lt;/font&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Assistant Professor 助理教授 &lt;font color=&#34;#96999A&#34;&gt;2025 - 2025&lt;/font&gt;
+&lt;font&gt;&lt;br&gt;Dept. of Electronic Engineering, National United University 國立聯合大學 電子工程學系&lt;/font&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Senior Algorithm Engineer 資深演算法工程師 &lt;font color=&#34;#96999A&#34;&gt;2023 - 2025&lt;/font&gt;
+&lt;font&gt;&lt;br&gt;Automotive BU, Raydium Co., Ltd. 瑞鼎科技 車用IC部門&lt;/font&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visiting Scholar 訪問學者 &lt;font color=&#34;#96999A&#34;&gt;2022 - 2023&lt;/font&gt;
+&lt;font&gt;&lt;br&gt;School of Computing, National University of Singapore 新加坡國立大學 計算機學院&lt;/font&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-awards&#34;&gt;🏆 Awards&lt;/h2&gt;
+&lt;p&gt;&amp;ndash; &lt;strong&gt;2022 Graduate Students Study Abroad Program / 博士生赴國外短期研究計畫（千里馬計畫）&lt;/strong&gt;&lt;br&gt;
+National Science and Technology Council 國科會&lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;strong&gt;2021 Hon Hai Technology Award / 鴻海科技獎&lt;/strong&gt;&lt;br&gt;
+Hon Hai Education Foundation 鴻海教育基金會&lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;strong&gt;2019 First Phase of U-start Plan for Innovation and Entrepreneurship / U-start創新創業計畫(第一階段)&lt;/strong&gt;&lt;br&gt;
+Ministry of Education, Taiwan 教育部&lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;strong&gt;2017 HackNTU – First Place / 台大黑客松 第一名&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-contact&#34;&gt;📧 Contact&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: smchiu AT cse.nsysu.edu.tw&lt;/li&gt;
+&lt;li&gt;Office: EC2009, Building of Electrical Engineering, NSYSU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-social-links&#34;&gt;🔗 Social Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=PKF4fwQAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linkedin.com/in/sheng-min-chiu-178a9016a/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
@@ -273,8 +577,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/members/</guid>
-      <description>&lt;h3 id=&#34;ms-students&#34;&gt;MS Students&lt;/h3&gt;
-&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+      <description>&lt;h2 id=&#34;current-members&#34;&gt;Current Members&lt;/h2&gt;
+&lt;h3 id=&#34;ms-students&#34;&gt;MS Students&lt;/h3&gt;
+&lt;p&gt;2025 (114 Academic Year)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;蔡易志 (Ian Tsai)&lt;/li&gt;
 &lt;li&gt;詹宇倫&lt;/li&gt;
@@ -285,23 +590,29 @@
 &lt;li&gt;Penta Paramayoga&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;bachelor-students-nsysu&#34;&gt;Bachelor Students (NSYSU)&lt;/h3&gt;
-&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;h3 id=&#34;interns&#34;&gt;Interns&lt;/h3&gt;
+&lt;p&gt;2025 (114 Academic Year)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;周霖 (Chou Lin), 李瑞紘 (Ruei Lee)&lt;/li&gt;
-&lt;li&gt;陳圖億, 盧品言, 陳義竑&lt;/li&gt;
+&lt;li&gt;王弘瑋 (Victor Wang) — &lt;em&gt;Medical LLM Adaptation &amp;amp; LoRA&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bachelor-students-nsysu&#34;&gt;Bachelor Students (NSYSU)&lt;/h3&gt;
+&lt;p&gt;2026 (115 Academic Year)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;李育陞  — &lt;em&gt;Vessel Anomaly Detection&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2025 (114 Academic Year)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;周霖 (Chou Lin) - &lt;em&gt;RAG-NAS(Knowledge-Guided Neural Architecture Search)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;李瑞紘 (Ruei Lee) — &lt;em&gt;Graph Spatio-temporal Flow Applications&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;陳圖億, 盧品言, 陳義竑 — &lt;em&gt;Smart Factory Material Planning &amp;amp; Production Optimization&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;bachelor-students-nuu&#34;&gt;Bachelor Students (NUU)&lt;/h3&gt;
-&lt;p&gt;2024 (seminar 113)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;涂正崑, 王任傑, 朱胡城瑋, 黃博碩&lt;/li&gt;
-&lt;li&gt;陳岳維, 陳昱安, 黃尉家&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;!-- ### Alumni --&gt;</description>
-      <content>&lt;h3 id=&#34;ms-students&#34;&gt;MS Students&lt;/h3&gt;
-&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;p&gt;2024 (113 Academic Year)&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;current-members&#34;&gt;Current Members&lt;/h2&gt;
+&lt;h3 id=&#34;ms-students&#34;&gt;MS Students&lt;/h3&gt;
+&lt;p&gt;2025 (114 Academic Year)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;蔡易志 (Ian Tsai)&lt;/li&gt;
 &lt;li&gt;詹宇倫&lt;/li&gt;
@@ -312,21 +623,32 @@
 &lt;li&gt;Penta Paramayoga&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;bachelor-students-nsysu&#34;&gt;Bachelor Students (NSYSU)&lt;/h3&gt;
-&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;h3 id=&#34;interns&#34;&gt;Interns&lt;/h3&gt;
+&lt;p&gt;2025 (114 Academic Year)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;周霖 (Chou Lin), 李瑞紘 (Ruei Lee)&lt;/li&gt;
-&lt;li&gt;陳圖億, 盧品言, 陳義竑&lt;/li&gt;
+&lt;li&gt;王弘瑋 (Victor Wang) — &lt;em&gt;Medical LLM Adaptation &amp;amp; LoRA&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bachelor-students-nsysu&#34;&gt;Bachelor Students (NSYSU)&lt;/h3&gt;
+&lt;p&gt;2026 (115 Academic Year)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;李育陞  — &lt;em&gt;Vessel Anomaly Detection&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2025 (114 Academic Year)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;周霖 (Chou Lin) - &lt;em&gt;RAG-NAS(Knowledge-Guided Neural Architecture Search)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;李瑞紘 (Ruei Lee) — &lt;em&gt;Graph Spatio-temporal Flow Applications&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;陳圖億, 盧品言, 陳義竑 — &lt;em&gt;Smart Factory Material Planning &amp;amp; Production Optimization&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;bachelor-students-nuu&#34;&gt;Bachelor Students (NUU)&lt;/h3&gt;
-&lt;p&gt;2024 (seminar 113)&lt;/p&gt;
+&lt;p&gt;2024 (113 Academic Year)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;涂正崑, 王任傑, 朱胡城瑋, 黃博碩&lt;/li&gt;
 &lt;li&gt;陳岳維, 陳昱安, 黃尉家&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;!-- ### Alumni --&gt;
+&lt;!-- ## Alumni --&gt;
 </content>
     </item>
     
@@ -348,9 +670,9 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;基於可解釋性大型時空模型的智慧都市時空輕量化混合專家邊緣 AI 生成框架(1/3) &lt;br&gt;&lt;em&gt;A Lightweight Spatiotemporal Mixture-of-Expert Edge AI Generation Framework for Smart Cities Based on Explainable Large Spatiotemporal Models&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;基於可解釋性大型時空模型的智慧都市時空輕量化混合專家邊緣 AI 生成框架 &lt;br&gt;&lt;em&gt;A Lightweight Spatiotemporal Mixture-of-Expert Edge AI Generation Framework for Smart Cities Based on Explainable Large Spatiotemporal Models&lt;/em&gt;&lt;/td&gt;
           &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
-          &lt;td&gt;2025/05/01~&lt;br&gt;2026/04/30&lt;/td&gt;
+          &lt;td&gt;2025/05/01~&lt;br&gt;2028/04/30&lt;/td&gt;
           &lt;td&gt;主持人P.I.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -415,6 +737,12 @@
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;AI動態產能管制系統 &lt;br&gt; &lt;em&gt;AI-Driven Production Planning and Control&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;喬崴進科技股份有限公司 Vision Wide Tech Co.,Ltd.&lt;/td&gt;
+          &lt;td&gt;2025/09~2026/08&lt;/td&gt;
+          &lt;td&gt;主持人P.I.&lt;/td&gt;
+      &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;用於自我監督健康管理的互動式App &lt;br&gt; &lt;em&gt;Interactive Mobile App for Self-Supervised Health Management&lt;/em&gt;&lt;/td&gt;
           &lt;td&gt;台大醫院雲林分院 NTU Hospital&lt;/td&gt;
@@ -466,9 +794,9 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;基於可解釋性大型時空模型的智慧都市時空輕量化混合專家邊緣 AI 生成框架(1/3) &lt;br&gt;&lt;em&gt;A Lightweight Spatiotemporal Mixture-of-Expert Edge AI Generation Framework for Smart Cities Based on Explainable Large Spatiotemporal Models&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;基於可解釋性大型時空模型的智慧都市時空輕量化混合專家邊緣 AI 生成框架 &lt;br&gt;&lt;em&gt;A Lightweight Spatiotemporal Mixture-of-Expert Edge AI Generation Framework for Smart Cities Based on Explainable Large Spatiotemporal Models&lt;/em&gt;&lt;/td&gt;
           &lt;td&gt;國科會&lt;br&gt;NSTC&lt;/td&gt;
-          &lt;td&gt;2025/05/01~&lt;br&gt;2026/04/30&lt;/td&gt;
+          &lt;td&gt;2025/05/01~&lt;br&gt;2028/04/30&lt;/td&gt;
           &lt;td&gt;主持人P.I.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -533,6 +861,12 @@
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;AI動態產能管制系統 &lt;br&gt; &lt;em&gt;AI-Driven Production Planning and Control&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;喬崴進科技股份有限公司 Vision Wide Tech Co.,Ltd.&lt;/td&gt;
+          &lt;td&gt;2025/09~2026/08&lt;/td&gt;
+          &lt;td&gt;主持人P.I.&lt;/td&gt;
+      &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;用於自我監督健康管理的互動式App &lt;br&gt; &lt;em&gt;Interactive Mobile App for Self-Supervised Health Management&lt;/em&gt;&lt;/td&gt;
           &lt;td&gt;台大醫院雲林分院 NTU Hospital&lt;/td&gt;
@@ -613,129 +947,6 @@
 &lt;li&gt;&lt;strong&gt;Spatio-temporal data&lt;/strong&gt;: Focuses on modeling and analyzing dynamic patterns across space and time, including traffic flow, human mobility, public transportation, and environmental trends.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Medical data&lt;/strong&gt;: Covers disease diagnosis modeling, clinical decision support, and related data analytics.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Other domains&lt;/strong&gt;: Students are encouraged to propose their areas of interest, with full support provided by the advisor.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>/services/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/services/</guid>
-      <description>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;
-&lt;!-- ### Reviewer
-- **[The Journal of Supercomputing](https://link.springer.com/journal/11227)**  
-  *2025 \~ now* --&gt;
-&lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2025 International Conference on Applied System Innovation (ICASI 2025)&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Oral A3&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
-Department of Computer Science and Information Engineering, Providence University / 靜宜大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;
-&lt;!-- ### Reviewer
-- **[The Journal of Supercomputing](https://link.springer.com/journal/11227)**  
-  *2025 \~ now* --&gt;
-&lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2025 International Conference on Applied System Innovation (ICASI 2025)&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Oral A3&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
-Department of Computer Science and Information Engineering, Providence University / 靜宜大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
-Department of Computer Science and Engineering, National Sun Yat-sen University / 國立中山大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
-Department of Mathematics, National Chung Cheng University / 國立中正大學 數學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Dec. 2024)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
-Department of Computer Science and Information Engineering, National Chung Cheng University / 國立中正大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sept. 2024)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;基於深度學習模型進行特徵選擇並降低運算成本之研究及申請和執行千里馬計畫經驗分享&lt;/strong&gt;&lt;br&gt;
-Department of Computer Science and Information Engineering, National Cheng Kung University / 國立成功大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(June 2023)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;thesis-committee&#34;&gt;Thesis Committee&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Hao-Cheng Zhang, STA-NIM: A Non-Monetary Incentive Mechanism for Enhancing Task Assignment in Spatial Crowdsourcing, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
-&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;張皓程, STA-NIM: A Non-Monetary Incentive Mechanism for Enhancing Task Assignment in Spatial Crowdsourcing, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
-Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chieh-Yi Hsuan, A Reputation-Aware Double Auction Model for Task Allocation in Mobile Crowdsensing, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
-&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;宣傑譯, 移動群智感知任務分配中的聲譽感知雙向拍賣模型, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
-Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Yu-Chia Lin, HML-PTA: A Hybrid Multi-Level Privacy-Preserving Task Assignment for Spatial Crowdsourcing, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
-&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;林育嘉, A Hybrid Multi-Level Privacy-Preserving Task Assignment for Spatial Crowdsourcing, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
-Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Yu-Chiao Li, A Topic-enhanced GNN for Social Recommendation with Multi-source Feature Fusion, M.S. thesis, Department of Computer Science and Information Engineering, National Chung Cheng University, 2025-07-30. &lt;br&gt;
-&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;李羽喬, 結合主題語意與多源特徵的圖神經社交推薦系統, 碩士論文, 國立中正大學資訊工程研究所, 2025-07-30.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;
-Advisor: Yu-Ling Hsueh 薛幼苓 博士&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- - , 2025-07-29. &lt;br&gt;
- 蔡季憲, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-29. &lt;br&gt;
- Advisor: Yi-Chung Chen 陳奕中 博士
-
-- , 2025-07-29. &lt;br&gt;
- 王昱婷, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-29. &lt;br&gt;
- Advisor: Yi-Chung Chen 陳奕中 博士
-
-- , 2025-07-29. &lt;br&gt;
- 楊竣傑, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-29. &lt;br&gt;
- Advisor: Yi-Chung Chen 陳奕中 博士
-
-- , 2025-07-28. &lt;br&gt;
- 蘇映禎, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-28. &lt;br&gt;
- Advisor: Yi-Chung Chen 陳奕中 博士
-
-- , 2025-07-28. &lt;br&gt;
- 林羿汶, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-28. &lt;br&gt;
- Advisor: Yi-Chung Chen 陳奕中 博士
-
-- , 2025-07-07. &lt;br&gt;
- 林子雁, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-07. &lt;br&gt;
- Advisor: Yi-Chung Chen 陳奕中 博士
-
-- , 2025-07-07. &lt;br&gt;
- 洪意雯, TBD, 碩士論文, 國立中興大學資訊工程學系, 2025-07-07. &lt;br&gt;
- Advisor: Yi-Chung Chen 陳奕中 博士 --&gt;
-&lt;ul&gt;
-&lt;li&gt;Hsien-Hung Chiu, Price Prediction of NBA Player Cards Using Sentiment Analysis and Fuzzy Neural Networks , M.S. thesis, Graduate School of Intelligent Data Science, National Yunlin University of Science and Technology, 2025-06-18. &lt;br&gt;
-&lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;邱顯閎, 應用情緒分析與模糊類神經網路於NBA球員卡價之預測, 碩士論文, 國立雲林科技大學智慧數據科學研究所, 2025-06-18.&lt;/em&gt;&lt;/span&gt;
-Advisors: Ya-Hsin Hsueh 薛雅馨 博士, and Yi-Chung Chen 陳奕中 博士&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
