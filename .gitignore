@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# AI coding tools (OpenCode / Codex)
+.opencode/
+.codex/
+.omo/
