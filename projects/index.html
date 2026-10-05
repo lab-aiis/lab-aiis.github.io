@@ -130,6 +130,33 @@ NSTC 2015/08/01~
     margin: 0;
     padding: 0;
   }
+
+   
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 25px;
+  }
+  .gallery-grid img {
+    width: 100%;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  .gallery-grid-caption {
+    background: var(--accent);
+    color: var(--accent-contrast-color);
+    font-size: 14px;
+    padding: 5px 10px;
+    margin: 5px 0 25px 0;
+    text-align: center;
+  }
+  @media (max-width: 684px) {
+    .gallery-grid {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>
 
 
@@ -268,126 +295,126 @@ NSTC 2015/08/01~
   <div class="post-content"><div>
         <h2 id="-research-projects--研究計畫">📝 Research Projects | 研究計畫<a href="#-research-projects--研究計畫" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <table>
-  <thead>
-      <tr>
-          <th>Project Title</th>
-          <th>Institution</th>
-          <th>Duration</th>
-          <th>Role</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>基於可解釋性大型時空模型的智慧都市時空輕量化混合專家邊緣 AI 生成框架 <br><em>A Lightweight Spatiotemporal Mixture-of-Expert Edge AI Generation Framework for Smart Cities Based on Explainable Large Spatiotemporal Models</em></td>
-          <td>國科會<br>NSTC</td>
-          <td>2025/05/01~<br>2028/04/30</td>
-          <td>主持人P.I.</td>
-      </tr>
-      <tr>
-          <td>基於徑向基函數的時空知識轉移對異常情況下之全市大眾運輸流量預測 <br><em>Spatial-temporal Knowledge Transfer Based on RBF for Prediction of City-wide Public Transportation Flow under Abnormal Situations</em></td>
-          <td>國科會<br>NSTC</td>
-          <td>2022/08/01~<br>2023/07/31</td>
-          <td>R.A.</td>
-      </tr>
-      <tr>
-          <td>以生成式對抗網路對於非常態事件情形下之大眾運輸流量預測之研究 <br> <em>Research on the Prediction of Public Transportation Flow under Abnormal Events by Using the Generative Adversarial Network</em></td>
-          <td>國科會<br>NSTC</td>
-          <td>2021/08/01~<br>2022/07/31</td>
-          <td>R.A.</td>
-      </tr>
-      <tr>
-          <td>基於深度學習進行時間空間特徵擷取之房地產售價預測系統 <br> <em>Temporal and Spatial Feature Extraction Based on Deep Learning for Predicting Real Estate Price</em></td>
-          <td>國科會<br>NSTC</td>
-          <td>2019/08/01~<br>2020/07/31</td>
-          <td>R.A.</td>
-      </tr>
-      <tr>
-          <td>基於人流資料之前瞻性交通、商展、社群大數據分析研究及台灣地區人流數據收集平台 <br> <em>Prospective People Flow Data-based Research on the Analysis of Big Data from Community, Trade Shows, and Transportation &amp; Platform for the Collection of People Flow Data in Taiwan</em></td>
-          <td>國科會<br>NSTC</td>
-          <td>2018/12/01~<br>2021/11/30</td>
-          <td>R.A.</td>
-      </tr>
-      <tr>
-          <td>基於新型態適地性社群網路之緊急醫療事件探知及其數據分析演算法(I) <br> <em>Emergency Medical Events Discovery and Data Analysis Algorithms Based on Novel Location-Based Social Networks(I)</em></td>
-          <td>國科會<br>NSTC</td>
-          <td>2018/08/01~<br>2019/08/31</td>
-          <td>R.A.</td>
-      </tr>
-      <tr>
-          <td>基於天際線查詢與系統鑒別技術之社群網路稀疏資料庫建置之研究(大專生計畫) <br> <em>Based on Skyline Query and System Identification Technology Construct a Sparse Social Network Database</em></td>
-          <td>國科會<br>NSTC</td>
-          <td>2016/07/01~<br>2017/02/28</td>
-          <td>R.A.</td>
-      </tr>
-      <tr>
-          <td>基於系統鑒別技術、雲端計算與自願性地理資訊之即時淹水潛勢圖的建置，以及即時淹水潛勢圖線上查詢服務 <br> <em>Building Real-Time Flood Inundation Maps based on System Identification, Cloud Computing and Volunteered Geographic Information, and the Development of a Flood Risk Online Search System</em></td>
-          <td>國科會<br>NSTC</td>
-          <td>2016/08/01~<br>2017/07/31</td>
-          <td>R.A.</td>
-      </tr>
-      <tr>
-          <td>利用系統鑑別技巧提升巨量時空資料查詢的效率 <br> <em>Efficient promotion of querying the big spatio-temporal data by using the techniques of system identification</em></td>
-          <td>國科會<br>NSTC</td>
-          <td>2015/08/01~<br>2016/07/31</td>
-          <td>R.A.</td>
-      </tr>
-  </tbody>
+	<thead>
+			<tr>
+					<th>Project Title</th>
+					<th>Institution</th>
+					<th>Duration</th>
+					<th>Role</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>基於可解釋性大型時空模型的智慧都市時空輕量化混合專家邊緣 AI 生成框架 <br><em>A Lightweight Spatiotemporal Mixture-of-Expert Edge AI Generation Framework for Smart Cities Based on Explainable Large Spatiotemporal Models</em></td>
+					<td>國科會<br>NSTC</td>
+					<td>2025/05/01~<br>2028/04/30</td>
+					<td>主持人P.I.</td>
+			</tr>
+			<tr>
+					<td>基於徑向基函數的時空知識轉移對異常情況下之全市大眾運輸流量預測 <br><em>Spatial-temporal Knowledge Transfer Based on RBF for Prediction of City-wide Public Transportation Flow under Abnormal Situations</em></td>
+					<td>國科會<br>NSTC</td>
+					<td>2022/08/01~<br>2023/07/31</td>
+					<td>R.A.</td>
+			</tr>
+			<tr>
+					<td>以生成式對抗網路對於非常態事件情形下之大眾運輸流量預測之研究 <br> <em>Research on the Prediction of Public Transportation Flow under Abnormal Events by Using the Generative Adversarial Network</em></td>
+					<td>國科會<br>NSTC</td>
+					<td>2021/08/01~<br>2022/07/31</td>
+					<td>R.A.</td>
+			</tr>
+			<tr>
+					<td>基於深度學習進行時間空間特徵擷取之房地產售價預測系統 <br> <em>Temporal and Spatial Feature Extraction Based on Deep Learning for Predicting Real Estate Price</em></td>
+					<td>國科會<br>NSTC</td>
+					<td>2019/08/01~<br>2020/07/31</td>
+					<td>R.A.</td>
+			</tr>
+			<tr>
+					<td>基於人流資料之前瞻性交通、商展、社群大數據分析研究及台灣地區人流數據收集平台 <br> <em>Prospective People Flow Data-based Research on the Analysis of Big Data from Community, Trade Shows, and Transportation &amp; Platform for the Collection of People Flow Data in Taiwan</em></td>
+					<td>國科會<br>NSTC</td>
+					<td>2018/12/01~<br>2021/11/30</td>
+					<td>R.A.</td>
+			</tr>
+			<tr>
+					<td>基於新型態適地性社群網路之緊急醫療事件探知及其數據分析演算法(I) <br> <em>Emergency Medical Events Discovery and Data Analysis Algorithms Based on Novel Location-Based Social Networks(I)</em></td>
+					<td>國科會<br>NSTC</td>
+					<td>2018/08/01~<br>2019/08/31</td>
+					<td>R.A.</td>
+			</tr>
+			<tr>
+					<td>基於天際線查詢與系統鑒別技術之社群網路稀疏資料庫建置之研究(大專生計畫) <br> <em>Based on Skyline Query and System Identification Technology Construct a Sparse Social Network Database</em></td>
+					<td>國科會<br>NSTC</td>
+					<td>2016/07/01~<br>2017/02/28</td>
+					<td>R.A.</td>
+			</tr>
+			<tr>
+					<td>基於系統鑒別技術、雲端計算與自願性地理資訊之即時淹水潛勢圖的建置，以及即時淹水潛勢圖線上查詢服務 <br> <em>Building Real-Time Flood Inundation Maps based on System Identification, Cloud Computing and Volunteered Geographic Information, and the Development of a Flood Risk Online Search System</em></td>
+					<td>國科會<br>NSTC</td>
+					<td>2016/08/01~<br>2017/07/31</td>
+					<td>R.A.</td>
+			</tr>
+			<tr>
+					<td>利用系統鑑別技巧提升巨量時空資料查詢的效率 <br> <em>Efficient promotion of querying the big spatio-temporal data by using the techniques of system identification</em></td>
+					<td>國科會<br>NSTC</td>
+					<td>2015/08/01~<br>2016/07/31</td>
+					<td>R.A.</td>
+			</tr>
+	</tbody>
 </table>
 <hr>
 <h2 id="-collaboration-projects--產學合作計畫">🤝 Collaboration Projects | 產學合作計畫<a href="#-collaboration-projects--產學合作計畫" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
 <table>
-  <thead>
-      <tr>
-          <th>Project Title</th>
-          <th>Institution</th>
-          <th>Duration</th>
-          <th>Role</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>AI動態產能管制系統 <br> <em>AI-Driven Production Planning and Control</em></td>
-          <td>喬崴進科技股份有限公司 Vision Wide Tech Co.,Ltd.</td>
-          <td>2025/09~2026/08</td>
-          <td>主持人P.I.</td>
-      </tr>
-      <tr>
-          <td>用於自我監督健康管理的互動式App <br> <em>Interactive Mobile App for Self-Supervised Health Management</em></td>
-          <td>台大醫院雲林分院 NTU Hospital</td>
-          <td>2021/01~2021/12</td>
-          <td>技術負責人 Technical Lead</td>
-      </tr>
-      <tr>
-          <td>具廣泛性及即時監控之機械加工廠大量刀具管理暨壽命監控預測系統 <br> <em>Comprehensive Mass Tool Management and Life Prediction System with Real-Time Monitoring</em></td>
-          <td>翔程科技 MANUTEQ</td>
-          <td>2019/11~2020/10</td>
-          <td>合作研究員 Collaborating PI</td>
-      </tr>
-      <tr>
-          <td>人流資料處理與分析 <br> <em>Crowd Flow Data Processing and Analysis</em></td>
-          <td>國家災害防救科技中心 NCDR</td>
-          <td>2019/11~2020/02</td>
-          <td>研究助理 R.A.</td>
-      </tr>
-      <tr>
-          <td>加注設備之線上管理服務系統 <br> <em>Online Management Service System for Filling Equipment</em></td>
-          <td>統一石化股份有限公司 Prosperco Petrochemical Inc.</td>
-          <td>2019/11~2020/06</td>
-          <td>技術負責人 Technical Lead</td>
-      </tr>
-      <tr>
-          <td>結合深度學習演算法之刀具磨耗推估研究 <br> <em>Research on Tool Wear Estimation Based on Deep Learning</em></td>
-          <td>精密機械研究發展中心 Precision Machinery R&amp;D Center (PMC)</td>
-          <td>2019/03~2019/11</td>
-          <td>研究助理 R.A.</td>
-      </tr>
-      <tr>
-          <td>利用深度學習模型擷取PM2.5與慢性腎臟病間的關鍵因子 <br> <em>Using Deep Learning Models to Extract Key Features Between PM2.5 and Chronic Kidney Disease</em></td>
-          <td>台大醫院雲林分院 NTU Hospital</td>
-          <td>2019/01~2019/12</td>
-          <td>技術負責人 Technical Lead</td>
-      </tr>
-  </tbody>
+	<thead>
+			<tr>
+					<th>Project Title</th>
+					<th>Institution</th>
+					<th>Duration</th>
+					<th>Role</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>AI動態產能管制系統 <br> <em>AI-Driven Production Planning and Control</em></td>
+					<td>喬崴進科技股份有限公司 Vision Wide Tech Co.,Ltd.</td>
+					<td>2025/09~2026/08</td>
+					<td>主持人P.I.</td>
+			</tr>
+			<tr>
+					<td>用於自我監督健康管理的互動式App <br> <em>Interactive Mobile App for Self-Supervised Health Management</em></td>
+					<td>台大醫院雲林分院 NTU Hospital</td>
+					<td>2021/01~2021/12</td>
+					<td>技術負責人 Technical Lead</td>
+			</tr>
+			<tr>
+					<td>具廣泛性及即時監控之機械加工廠大量刀具管理暨壽命監控預測系統 <br> <em>Comprehensive Mass Tool Management and Life Prediction System with Real-Time Monitoring</em></td>
+					<td>翔程科技 MANUTEQ</td>
+					<td>2019/11~2020/10</td>
+					<td>合作研究員 Collaborating PI</td>
+			</tr>
+			<tr>
+					<td>人流資料處理與分析 <br> <em>Crowd Flow Data Processing and Analysis</em></td>
+					<td>國家災害防救科技中心 NCDR</td>
+					<td>2019/11~2020/02</td>
+					<td>研究助理 R.A.</td>
+			</tr>
+			<tr>
+					<td>加注設備之線上管理服務系統 <br> <em>Online Management Service System for Filling Equipment</em></td>
+					<td>統一石化股份有限公司 Prosperco Petrochemical Inc.</td>
+					<td>2019/11~2020/06</td>
+					<td>技術負責人 Technical Lead</td>
+			</tr>
+			<tr>
+					<td>結合深度學習演算法之刀具磨耗推估研究 <br> <em>Research on Tool Wear Estimation Based on Deep Learning</em></td>
+					<td>精密機械研究發展中心 Precision Machinery R&amp;D Center (PMC)</td>
+					<td>2019/03~2019/11</td>
+					<td>研究助理 R.A.</td>
+			</tr>
+			<tr>
+					<td>利用深度學習模型擷取PM2.5與慢性腎臟病間的關鍵因子 <br> <em>Using Deep Learning Models to Extract Key Features Between PM2.5 and Chronic Kidney Disease</em></td>
+					<td>台大醫院雲林分院 NTU Hospital</td>
+					<td>2019/01~2019/12</td>
+					<td>技術負責人 Technical Lead</td>
+			</tr>
+	</tbody>
 </table>
 <hr>
 
